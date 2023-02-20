@@ -16,7 +16,7 @@ I have a broad research interest in **<font color=red>natural language generatio
 
 ## Education
 
-- Aug 2020 - Jul 2025 (Expected). Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Aug 2020 - Jul 2025 (Expected). Ph.D candidate in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
 - Aug 2016 - Jul 2020. B.Sc. in Dept. of Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Main Publications
@@ -51,7 +51,7 @@ I have a broad research interest in **<font color=red>natural language generatio
 
 ## Services
 
-- Reviewer: ACL'22, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
+- Reviewer: ACL'22/23, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
 - Review Assistant: EMNLP'20, AAAI'21, COLING'20
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
