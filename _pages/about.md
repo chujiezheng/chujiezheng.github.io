@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
+Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/).
+Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
 I have a broad research interest in **natural language generation and dialogue system**, especially in improving the **<font color=red>language models' robustness, safety, and their social good</font>**.
 In the past few years, I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
 <div align="center"> 
-<img src="./framework.png" width = "800"/>
+<img src="./framework.png" width = "800" />
 </div>
 
 ## Education
