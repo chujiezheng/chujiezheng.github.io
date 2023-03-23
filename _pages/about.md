@@ -10,9 +10,13 @@ redirect_from:
 
 Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
-I have a broad research interest in **<font color=red>natural language generation and dialogue system</font>**. In the past few years, I built a series of **popular Chinese NLP / dialogue benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv). I am currently interested in building **<font color=red>trustworthy NLG systems</font>**, including but not limited to making them robust, controllable, well-behaved, and of social good. The figure below shows my highlighted research projects. You can find my CV [**here** (English)](./cv_chujie_en.pdf).
+I have a broad research interest in **natural language generation and dialogue system**, especially in improving the **<font color=red>language models' robustness, safety, and their social good</font>**.
+In the past few years, I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
+The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-![Research Framework](./framework.png)
+<div align="center"> 
+<img src="./framework.png" width = "800"/>
+</div>
 
 ## Education
 
