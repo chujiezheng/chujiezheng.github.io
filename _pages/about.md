@@ -15,9 +15,7 @@ I have a broad research interest in **natural language generation and dialogue s
 In the past few years, I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-<div align="center"> 
-<img src="./framework.png" width = "800" />
-</div>
+![Research Framework](./framework.png)
 
 ## Education
 
