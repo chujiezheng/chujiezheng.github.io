@@ -41,7 +41,7 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 
 1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen and Minlie Huang. *AugESC: Large-scale Data Augmentation for Emotional Support Conversation with Pre-trained Language Models*. <u>arXiv:2202.13047</u>. [[paper]](https://arxiv.org/abs/2202.13047)
 2. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
-3. Jinfeng Zhou*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
+3. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
 4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>arXiv:2203.09313</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
 5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
 
