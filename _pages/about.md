@@ -19,7 +19,7 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 
 ## Education
 
-- Aug 2020 - Jul 2025 (Expected). Ph.D candidate in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Aug 2020 - Present. Ph.D candidate in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/). Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
 - Aug 2016 - Jul 2020. B.Sc. in Dept. of Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Main Publications
@@ -43,27 +43,7 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 2. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
 3. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>arXiv:2208.08845</u>. [[paper]](https://arxiv.org/abs/2208.08845)
 4. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu and Minlie Huang. *EVA2.0: Investigating Open-Domain Chinese Dialogue Systems with Large-Scale Pre-Training*. <u>arXiv:2203.09313</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
-5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
-
-## Talks
-
-- Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
-- Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
-- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
-- Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
-
-## Services
-
-- Reviewer: ACL'22/23, EMNLP'21/22, AAAI'22/23, EACL'23, KNOSYS, TIST
-- Review Assistant: EMNLP'20, AAAI'21, COLING'20
-- Organizer:
-  - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
-  - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
-
-## Experiences
-
-- Feb 2022 - Jun 2022. Research Intern. General Dialogue Group, Baidu, Beijing, China.
-- Jun 2020 - Sep 2020. Research Intern. AI Interactive Technology Team, Sogou, Hangzhou, China.
+5. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]
 
 ## Selected Awards and Honors
 
@@ -74,3 +54,25 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
 - **National Scholarship (Top 2/100)**, 2019
 - **Overall Excellence Scholarship**, Tsinghua University, 2018
+
+1. ](https://github.com/thu-coai/EVA)
+
+## Talks
+
+- Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
+- Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
+- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
+- Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
+
+## Services
+
+- Reviewer: ACL (22/23), EMNLP (21/22), AAAI (22/23), EACL (23), KNOSYS, TIST
+- Review Assistant: EMNLP (20), AAAI (21), COLING (20)
+- Organizer:
+  - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
+  - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
+
+## Experiences
+
+- Feb 2022 - Jun 2022. Research Intern. General Dialogue Group, Baidu, Beijing, China.
+- Jun 2020 - Sep 2020. Research Intern. AI Interactive Technology Team, Sogou, Hangzhou, China.
