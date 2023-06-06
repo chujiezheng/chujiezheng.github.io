@@ -12,7 +12,7 @@ Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsi
 Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
 I have a broad research interest in **generative language models**, especially in **<font color=red>making them robust and aligned with human values</font>**.
-Previously, I conducted research on **language models' social good**, especially in **<font color=red>building emotional/empathetic dialogue systems</font>**.
+Previously, I conducted research on **language models' social good**, especially in **<font color=red>building empathetic dialogue systems</font>**.
 I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
