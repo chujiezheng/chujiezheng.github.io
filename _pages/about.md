@@ -11,8 +11,9 @@ redirect_from:
 Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/).
 Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
-I have a broad research interest in **natural language generation and dialogue system**, especially in improving the **<font color=red>language models' robustness and reliability</font>**.
-In the past few years, I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
+I have a broad research interest in **generative language models**, especially in **<font color=red>making them robust and aligned with human values</font>**.
+Previously, I conducted research on **language models' social good**, especially in **<font color=red>building emotional/empathetic dialogue systems**.
+I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
 ![Research Framework](./framework.png)
@@ -27,7 +28,7 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 *\* indicates equal contribution.*
 
 1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang and Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2202.13047)
-2. **Chujie Zheng**, Pei Ke, Zheng Zhang and Minlie Huang. *Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>Findings of ACL 2023</u>.
+2. **Chujie Zheng**, Pei Ke, Zheng Zhang and Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>Findings of ACL 2023</u>.
 3. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845)
 4. **Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu and Minlie Huang. *CDConv: A Benchmark for Contradiction Detection in Chinese Conversations*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv)
 5. Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang and Minlie Huang. *Towards Emotional Support Dialog Systems*. <u>ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
