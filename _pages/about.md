@@ -11,8 +11,8 @@ redirect_from:
 Welcome! I am a third-year Ph.D candidate of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/).
 Prior to my Ph.D career, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
 
-I have a broad research interest in **generative language models**, especially in **<font color=red>making them robust and aligned with human values</font>**.
-Previously, I conducted research on **language models' social good**, especially in **<font color=red>building empathetic dialogue systems</font>**.
+I have a broad research interest in **building trustworthy NLG systems**, especially in **<font color=red>improving their robustness and alignment</font>**.
+Previously, I conducted research on **language models' social good**, with focus on **<font color=red>empathetic dialogue systems</font>**.
 I have also built a series of **popular NLP benchmarks**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 The figure below shows my highlighted research projects. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
@@ -27,25 +27,25 @@ The figure below shows my highlighted research projects. You can find my [**CV h
 
 *\* indicates equal contribution.*
 
-1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang and Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2202.13047)
-2. **Chujie Zheng**, Pei Ke, Zheng Zhang and Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>Findings of ACL 2023</u>.
-3. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang and Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845)
-4. **Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu and Minlie Huang. *CDConv: A Benchmark for Contradiction Detection in Chinese Conversations*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv)
-5. Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang and Minlie Huang. *Towards Emotional Support Dialog Systems*. <u>ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
-6. **Chujie Zheng**, Yong Liu, Wei Chen, Yongcai Leng and Minlie Huang. *CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2105.08316) [[repo]](https://github.com/chujiezheng/CoMAE)
-7. **Chujie Zheng**, Yunbo Cao, Daxin Jiang and Minlie Huang. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. <u>Findings of EMNLP 2020</u>. [[paper]](https://arxiv.org/abs/2009.09378) [[repo]](https://github.com/chujiezheng/DiffKS)
-8. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang and Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv)
-9. **Chujie Zheng**, Minlie Huang and Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset)
+1. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2202.13047)
+2. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>Findings of ACL 2023</u>.
+3. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang, Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845)
+4. **Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang. *CDConv: A Benchmark for Contradiction Detection in Chinese Conversations*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv)
+5. Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. *Towards Emotional Support Dialog Systems*. <u>ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
+6. **Chujie Zheng**, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. *CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2105.08316) [[repo]](https://github.com/chujiezheng/CoMAE)
+7. **Chujie Zheng**, Yunbo Cao, Daxin Jiang, Minlie Huang. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. <u>Findings of EMNLP 2020</u>. [[paper]](https://arxiv.org/abs/2009.09378) [[repo]](https://github.com/chujiezheng/DiffKS)
+8. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang, Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv)
+9. **Chujie Zheng**, Minlie Huang, Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset)
 10. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. *EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training*. <u>Machine Intelligence Research 2023</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA)
-11. Jiawen Deng\*, Jingyan Zhou\*, Hao Sun, **Chujie Zheng**, Fei Mi, Helen Meng and Minlie Huang. *COLD: A Benchmark for Chinese Offensive Language Detection*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2201.06025) [[repo]](https://github.com/thu-coai/COLDataset)
-12. Hao Sun\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, **Chujie Zheng**, Hao Zhou, Nanyun Peng, Xiaoyan Zhu and Minlie Huang. *On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark*. <u>Findings of ACL 2022</u>. [[paper]](https://arxiv.org/abs/2110.08466) [[repo]](https://github.com/thu-coai/DiaSafety)
-13. Sahand Sabour, **Chujie Zheng** and Minlie Huang. *CEM: Commonsense-aware Empathetic Response Generation*. <u>AAAI 2022</u>. [[paper]](https://arxiv.org/abs/2109.05739) [[repo]](https://github.com/Sahandfer/CEM)
-14. Hao Sun\*, Zhenru Lin\*, **Chujie Zheng**, Siyang Liu and Minlie Huang. *PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01702) [[repo]](https://github.com/thu-coai/PsyQA)
+11. Jiawen Deng\*, Jingyan Zhou\*, Hao Sun, **Chujie Zheng**, Fei Mi, Helen Meng, Minlie Huang. *COLD: A Benchmark for Chinese Offensive Language Detection*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2201.06025) [[repo]](https://github.com/thu-coai/COLDataset)
+12. Hao Sun\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, **Chujie Zheng**, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, Minlie Huang. *On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark*. <u>Findings of ACL 2022</u>. [[paper]](https://arxiv.org/abs/2110.08466) [[repo]](https://github.com/thu-coai/DiaSafety)
+13. Sahand Sabour, **Chujie Zheng**, Minlie Huang. *CEM: Commonsense-aware Empathetic Response Generation*. <u>AAAI 2022</u>. [[paper]](https://arxiv.org/abs/2109.05739) [[repo]](https://github.com/Sahandfer/CEM)
+14. Hao Sun\*, Zhenru Lin\*, **Chujie Zheng**, Siyang Liu, Minlie Huang. *PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01702) [[repo]](https://github.com/thu-coai/PsyQA)
 
 ## Preprints
 
-1. **Chujie Zheng** and Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
-2. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang and Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
+1. **Chujie Zheng**, Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
+2. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA)
 
 ## Selected Awards and Honors
 
