@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth-year Ph.D student of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/).
-Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University.
+Welcome! I am a fourth-year Ph.D student of [THU CoAI group](http://coai.cs.tsinghua.edu.cn/), fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy language models**, with current focus on **<font color=red>improving their robustness and alignment</font>**. Previously, I conducted research on **language models' social good**, especially in **<font color=red>empathetic dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
+I have a broad research interest in **building trustworthy NLP systems**, with current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
+
+Previously, I conducted research related to **NLP for social good**, with mian focus on **<font color=red>emotional support dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 
 ## Education
 
@@ -22,7 +23,7 @@ I have a broad research interest in **building trustworthy language models**, wi
 
 *\* indicates equal contribution.*
 
-1. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>arxiv:2309.03882</u>. [[paper]](https://arxiv.org/abs/2309.03882) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/LLM-purple)
+1. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>arXiv:2309.03882</u>. [[paper]](https://arxiv.org/abs/2309.03882) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/LLM-purple)
 2. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/dataset-yellow)
 3. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>Findings of ACL 2023</u>. [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/alignment-red)
 4. **Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang. *CDConv: A Benchmark for Contradiction Detection in Chinese Conversations*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/dataset-yellow)
@@ -30,28 +31,26 @@ I have a broad research interest in **building trustworthy language models**, wi
 ## Other Papers
 
 1. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang, Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845) [[repo]](https://github.com/jfzhouyoo/CASE) ![](https://img.shields.io/badge/social_good-green)
-1. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. *EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training*. <u>Machine Intelligence Research 2023</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
-1. Jiawen Deng\*, Jingyan Zhou\*, Hao Sun, **Chujie Zheng**, Fei Mi, Helen Meng, Minlie Huang. *COLD: A Benchmark for Chinese Offensive Language Detection*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2201.06025) [[repo]](https://github.com/thu-coai/COLDataset) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/dataset-yellow)
-1. Hao Sun\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, **Chujie Zheng**, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, Minlie Huang. *On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark*. <u>Findings of ACL 2022</u>. [[paper]](https://arxiv.org/abs/2110.08466) [[repo]](https://github.com/thu-coai/DiaSafety) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/dataset-yellow)
-1. Sahand Sabour, **Chujie Zheng**, Minlie Huang. *CEM: Commonsense-aware Empathetic Response Generation*. <u>AAAI 2022</u>. [[paper]](https://arxiv.org/abs/2109.05739) [[repo]](https://github.com/Sahandfer/CEM) ![](https://img.shields.io/badge/social_good-green)
-1. **Chujie Zheng**, Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
-1. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
-1. Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. *Towards Emotional Support Dialog Systems*. <u>ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-green) ![](https://img.shields.io/badge/dataset-yellow)
-1. **Chujie Zheng**, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. *CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2105.08316) [[repo]](https://github.com/chujiezheng/CoMAE) ![](https://img.shields.io/badge/social_good-green)
-1. Hao Sun\*, Zhenru Lin\*, **Chujie Zheng**, Siyang Liu, Minlie Huang. *PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01702) [[repo]](https://github.com/thu-coai/PsyQA) ![](https://img.shields.io/badge/social_good-green) ![](https://img.shields.io/badge/dataset-yellow)
-1. **Chujie Zheng**, Yunbo Cao, Daxin Jiang, Minlie Huang. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. <u>Findings of EMNLP 2020</u>. [[paper]](https://arxiv.org/abs/2009.09378) [[repo]](https://github.com/chujiezheng/DiffKS)
-1. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang, Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv) ![](https://img.shields.io/badge/dataset-yellow)
-1. **Chujie Zheng**, Minlie Huang, Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset) ![](https://img.shields.io/badge/dataset-yellow)
+2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. *EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training*. <u>Machine Intelligence Research 2023</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
+3. Jiawen Deng\*, Jingyan Zhou\*, Hao Sun, **Chujie Zheng**, Fei Mi, Helen Meng, Minlie Huang. *COLD: A Benchmark for Chinese Offensive Language Detection*. <u>EMNLP 2022</u>. [[paper]](https://arxiv.org/abs/2201.06025) [[repo]](https://github.com/thu-coai/COLDataset) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/dataset-yellow)
+4. Hao Sun\*, Guangxuan Xu\*, Jiawen Deng, Jiale Cheng, **Chujie Zheng**, Hao Zhou, Nanyun Peng, Xiaoyan Zhu, Minlie Huang. *On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark*. <u>Findings of ACL 2022</u>. [[paper]](https://arxiv.org/abs/2110.08466) [[repo]](https://github.com/thu-coai/DiaSafety) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/dataset-yellow)
+5. Sahand Sabour, **Chujie Zheng**, Minlie Huang. *CEM: Commonsense-aware Empathetic Response Generation*. <u>AAAI 2022</u>. [[paper]](https://arxiv.org/abs/2109.05739) [[repo]](https://github.com/Sahandfer/CEM) ![](https://img.shields.io/badge/social_good-green)
+6. **Chujie Zheng**, Minlie Huang. *Exploring Prompt-based Few-shot Learning for Grounded Dialog Generation*. <u>arXiv:2109.06513</u>. [[paper]](https://arxiv.org/abs/2109.06513)
+7. Hao Zhou\*, Pei Ke\*, Zheng Zhang\*, Yuxian Gu, Yinhe Zheng, **Chujie Zheng**, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang. *EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training*. <u>arXiv:2108.01547</u>. [[paper]](https://arxiv.org/abs/2108.01547) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
+8. Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang. *Towards Emotional Support Dialog Systems*. <u>ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-green) ![](https://img.shields.io/badge/dataset-yellow)
+9. **Chujie Zheng**, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang. *CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2105.08316) [[repo]](https://github.com/chujiezheng/CoMAE) ![](https://img.shields.io/badge/social_good-green)
+10. Hao Sun\*, Zhenru Lin\*, **Chujie Zheng**, Siyang Liu, Minlie Huang. *PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support*. <u>Findings of ACL 2021</u>. [[paper]](https://arxiv.org/abs/2106.01702) [[repo]](https://github.com/thu-coai/PsyQA) ![](https://img.shields.io/badge/social_good-green) ![](https://img.shields.io/badge/dataset-yellow)
+11. **Chujie Zheng**, Yunbo Cao, Daxin Jiang, Minlie Huang. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. <u>Findings of EMNLP 2020</u>. [[paper]](https://arxiv.org/abs/2009.09378) [[repo]](https://github.com/chujiezheng/DiffKS)
+12. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang, Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv) ![](https://img.shields.io/badge/dataset-yellow)
+13. **Chujie Zheng**, Minlie Huang, Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset) ![](https://img.shields.io/badge/dataset-yellow)
 
 ## Selected Awards and Honors
 
-- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2022
-- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2021
+- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2022/2021
 - **Excellent Thesis (Top 5/100)**, Tsinghua University, 2020
 - **Outstanding Graduate**, Tsinghua University, 2020
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
-- **National Scholarship (Top 2/100)**, 2019
-- **Overall Excellence Scholarship**, Tsinghua University, 2018
+- **China National Scholarship (Top 2/100)**, 2019
 
 ## Talks
 
