@@ -14,11 +14,10 @@ I have a broad research interest in **building trustworthy NLP systems**, with c
 
 Previously, I conducted research related to **NLP for social good**, with main focus on **<font color=red>emotional support dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
 
-## Education
+## News
 
-- Aug 2020 - present. Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 - present. Visiting Ph.D student in [PlusLab](https://vnpeng.net/), Computer Science Department, UCLA. Advisor: [Prof. Nanyun (Violet) Peng](https://vnpeng.net/)
-- Aug 2016 - Jul 2020. B.Sc. in Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
+* **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
+* **[09/2023]** Arxived our work on LLMs' robustness in multiple-choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
 ## Main Papers
 
@@ -45,13 +44,19 @@ Previously, I conducted research related to **NLP for social good**, with main f
 12. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang, Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv) ![](https://img.shields.io/badge/dataset-yellow)
 13. **Chujie Zheng**, Minlie Huang, Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset) ![](https://img.shields.io/badge/dataset-yellow)
 
+## Education
+
+- Aug 2020 - present. Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Nov 2023 - present. Visiting Ph.D student in [PlusLab](https://vnpeng.net/), Computer Science Department, UCLA. Advisor: [Prof. Nanyun (Violet) Peng](https://vnpeng.net/)
+- Aug 2016 - Jul 2020. B.Sc. in Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
+
 ## Awards and Honors
 
 - **Comprehensive Scholarship (1nd Prize)**, Tsinghua University, 2023
 - **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2022/2021
-- **Chi-Sun YEH (叶企孙) Scholarship (Top 5\%)**, Dept. of Physics, Tsinghua University, 2020
+- **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
 - **Outstanding Undergraduate**, Tsinghua University, 2020
-- **China National Scholarship (Top 0.2\%)**, 2019
+- **China National Scholarship (Top 2/100)**, 2019
 - **Comprehensive Scholarship**, Tsinghua University, 2018
 
 ## Talks
