@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth-year Ph.D student of [CoAI group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting Ph.D student of [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
+Welcome! I am a fourth-year Ph.D student of [CoAI group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar of [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
 I have a broad research interest in **building trustworthy NLP systems**, with current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
 
@@ -47,7 +47,7 @@ Previously, I conducted research related to **NLP for social good**, with main f
 ## Education
 
 - Aug 2020 - present. Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 - present. Visiting Ph.D student in [PlusLab](https://vnpeng.net/), Computer Science Department, UCLA. Advisor: [Prof. Nanyun (Violet) Peng](https://vnpeng.net/)
+- Nov 2023 - present. Visiting Scholar in [PlusLab](https://vnpeng.net/), Computer Science Department, UCLA. Advisor: [Prof. Nanyun (Violet) Peng](https://vnpeng.net/)
 - Aug 2016 - Jul 2020. B.Sc. in Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Awards and Honors
