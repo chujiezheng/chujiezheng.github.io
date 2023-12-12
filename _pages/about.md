@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fourth-year Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy NLP systems**, with current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
+I have a broad research interest in **building trustworthy NLP systems**, with the current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
 
-Previously, I conducted research related to **NLP for social good**, with main focus on **<font color=red>emotional support dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
+Previously, I conducted research related to **NLP for social good**, with a main focus on **<font color=red>emotional support dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
 
 ## News
 
