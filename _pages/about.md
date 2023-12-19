@@ -53,12 +53,12 @@ Previously, I conducted research related to **NLP for social good**, with a main
 
 ## Awards and Honors
 
-- **Comprehensive Scholarship (1st Prize)**, Tsinghua University, 2023
-- **Comprehensive Scholarship (2nd Prize)**, Tsinghua University, 2022/2021
-- **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Dept. of Physics, Tsinghua University, 2020
+- **Schlumberger Scholarship**, Tsinghua University, 2023
+- **Comprehensive Merit Scholarship**, Tsinghua University, 2022/2021
+- **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Department of Physics, Tsinghua University, 2020
 - **Outstanding Undergraduate**, Tsinghua University, 2020
 - **China National Scholarship (Top 2/100)**, 2019
-- **Comprehensive Scholarship**, Tsinghua University, 2018
+- **Comprehensive Merit Scholarship**, Tsinghua University, 2018
 
 ## Talks
 
