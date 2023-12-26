@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by [Prof. Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
 I have a broad research interest in **building trustworthy NLP systems**, with the current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
 
@@ -20,7 +20,7 @@ Previously, I conducted research related to **NLP for social good**, with a main
 * **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
 * **[09/2023]** Arxived our work on LLMs' robustness in multiple-choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
-## Main Papers
+## Highlighted Papers
 
 *\* indicates equal contribution.*
 
@@ -47,9 +47,15 @@ Previously, I conducted research related to **NLP for social good**, with a main
 
 ## Education
 
-- Aug 2020 - present. Ph.D student in [CoAI group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Aug 2020 - present. Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
 - Nov 2023 - present. Visiting Scholar in [PlusLab](https://vnpeng.net/), Computer Science Department, UCLA. Advisor: [Prof. Nanyun (Violet) Peng](https://vnpeng.net/)
 - Aug 2016 - Jul 2020. B.Sc. in Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
+
+## Experiences
+
+- Nov 2023 - present. Visiting Scholar. PLUSLab, UCLA. Los Angeles, CA, United States.
+- Sep 2018 - present. Research Assistant. CoAI Group, Tsinghua University. Beijing, China.
+- Feb 2022 - Jun 2022. Research Intern. General Dialogue Group, Baidu. Beijing, China.
 
 ## Awards and Honors
 
@@ -74,8 +80,3 @@ Previously, I conducted research related to **NLP for social good**, with a main
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
   - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
-
-## Experiences
-
-- Feb 2022 - Jun 2022. Research Intern. General Dialogue Group, Baidu, Beijing, China.
-- Jun 2020 - Sep 2020. Research Intern. AI Interactive Technology Team, Sogou, Hangzhou, China.
