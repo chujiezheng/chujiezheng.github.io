@@ -16,7 +16,7 @@ Previously, I conducted research related to **NLP for social good**, with a main
 
 ## News
 
-* **<font color=red>[Collaboration or Mentorship]</font>** Feel free to reach out to me if you would like to collaborate with me or if you need my mentorship for your research projects. Except the aforementioned research interest, I am also open to exploring unconventional and underexplored research problems!
+* **<font color=red>[Collaboration or Mentorship]</font>** Feel free to reach out to me if you would like to collaborate with me or if you need my mentorship for your research projects. Except the aforementioned research interest, I am also open to exploring unconventional, important research problems!
 * **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
 * **[09/2023]** Arxived our work on LLMs' robustness in multiple-choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
