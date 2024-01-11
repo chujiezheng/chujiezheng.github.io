@@ -75,7 +75,7 @@ Previously, I conducted research related to **NLP for social good**, with a main
 
 ## Services
 
-- Conference reviewer: ACL (22/23), EMNLP (21/22), AAAI (22/23), EACL (23), ACL Rolling Review (21/22)
+- Conference reviewer: ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), AAAI (22/23), ACL Rolling Review (21/22/23)
 - Journal reviewer: ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
