@@ -17,7 +17,7 @@ Previously, I conducted research related to **NLP for social good**, with a main
 ## News
 
 * **<font color=red>[Collaboration or Mentorship]</font>** Feel free to reach out to me if you would like to collaborate with me or if you need my mentorship for your research projects. Except the aforementioned research interest, I am also open to exploring unconventional, important research problems!
-* **[01/2024]** Our paper on LLMs' robustness and bias in multiple choice evaluation is accpeted to **ICLR 2024** for <font color="red">**spotlight presentation**</font> [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna!
+* **[01/2024]** Our paper on LLMs' robustness and bias in multiple choice evaluation is accpeted to **ICLR 2024** for **<font color="red">spotlight presentation</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on LLMs' robustness and bias in multiple choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
