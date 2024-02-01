@@ -17,7 +17,7 @@ Previously, I conducted research related to **NLP for social good**, with a main
 ## News
 
 * **<font color=red>[Collaboration or Mentorship]</font>** If you would like to collaborate with me, or if you need my mentorship for your research projects, feel free to reach out! Except the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[01/2024]** Arxived our paper on the prompt-driven LLM safeguarding approach [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Arxived our paper on safeguarding LLMs via safety prompt optimization [[paper]](https://arxiv.org/abs/2401.18018)
 * **[01/2024]** Our paper on LLMs' robustness and bias in multiple choice evaluation is accpeted to **ICLR 2024** for <strong><font color="red">Spotlight presentation (5%)</font></strong> [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on LLMs' robustness and bias in multiple choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
