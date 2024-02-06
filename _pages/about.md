@@ -10,21 +10,19 @@ redirect_from:
 
 Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by [Prof. Nanyun (Violet) Peng](https://vnpeng.net/). Prior to my Ph.D study, I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy NLP systems**, with the current focus on **<font color=red>language models' robustness, alignment, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
+I have a broad research interest in **building trustworthy NLP systems**, with the current focus on **<font color=red>language models' alignment, robustness, and interpretability</font>**. I hope to better understand how modern NLP systems (e.g., LLMs) intrinsically work and learn and improve their potential vulnerabilities.
 
 Previously, I conducted research related to **NLP for social good**, with a main focus on **<font color=red>emotional support dialogue systems</font>**. I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
 
 ## News
 
 * **<font color=red>[Collaboration or Mentorship]</font>** If you would like to collaborate with me, or if you need my mentorship for your research projects, feel free to reach out! Except the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[01/2024]** Arxived our paper on safeguarding LLMs via safety prompt optimization [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Arxived our paper on understanding and improving prompt-driven LLM safeguarding [[paper]](https://arxiv.org/abs/2401.18018)
 * **[01/2024]** Our paper on LLMs' robustness and bias in multiple choice evaluation is accpeted to **ICLR 2024** for <strong><font color="red">Spotlight presentation (5%)</font></strong> [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, fortunately hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on LLMs' robustness and bias in multiple choice evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
 ## Highlighted Papers
-
-*\* indicates equal contribution.*
 
 1. **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng. *Prompt-Driven LLM Safeguarding via Directed Representation Optimization*. <u>arXiv:2401.18018</u>. [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-gray) 
 2. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>ICLR 2024 <strong><font color=red bold>(Spotlight: 5%)</font></strong></u>. [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/robustness-blue) 
@@ -32,6 +30,8 @@ Previously, I conducted research related to **NLP for social good**, with a main
 4. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-green) ![](https://img.shields.io/badge/dataset-yellow)
 
 ## Other Papers
+
+*\* indicates equal contribution.*
 
 1. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang, Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845) [[repo]](https://github.com/jfzhouyoo/CASE) ![](https://img.shields.io/badge/social_good-green)
 2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. *EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training*. <u>Machine Intelligence Research 2023</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
@@ -78,8 +78,8 @@ Previously, I conducted research related to **NLP for social good**, with a main
 
 ## Services
 
-- Conference reviewer: ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), AAAI (22/23), ACL Rolling Review (21/22/23)
-- Journal reviewer: ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
+- Conference reviewer: ICML (24), COLM (24), ACL (22/23/24), EMNLP (21/22/23), NAACL (24), EACL (23), ACL Rolling Review (21/22/23/24), AAAI (22/23)
+- Journal reviewer: IEEE Transactions on Computational Social Systems (24), ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
 - Organizer:
   - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
   - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
