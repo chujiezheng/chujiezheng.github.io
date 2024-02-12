@@ -13,7 +13,7 @@ name                     : &name "Chujie Zheng 郑楚杰"
 description              : &description "Fourth-year Ph.D student at Tsinghua University"
 url                      : https://chujiezheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chujiezheng.github.io"
+repository               : "chujiezheng/chujiezheng.github.io"
 teaser                   : "chujie.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
