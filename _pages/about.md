@@ -69,17 +69,16 @@ Previously, I conducted research related to **NLP for social good**, with a main
 - **China National Scholarship (Top 2/100)**, 2019
 - **Comprehensive Merit Scholarship**, Tsinghua University, 2018
 
+## Services
+
+- **Area Chair:** ACL (24), ACL Rolling Review (24)
+- **Conference Reviewer:** ICML (24), COLM (24), ACL (22/23/24), EMNLP (21/22/23), NAACL (24), EACL (23), ACL Rolling Review (21/22/23/24), AAAI (22/23)
+- **Journal Reviewer:** IEEE Transactions on Computational Social Systems (24), ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
+- **Competition Organizer:**  [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2, [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/)
+
 ## Talks
 
 - Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
 - Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
 - Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
 - Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
-
-## Services
-
-- Conference reviewer: ICML (24), COLM (24), ACL (22/23/24), EMNLP (21/22/23), NAACL (24), EACL (23), ACL Rolling Review (21/22/23/24), AAAI (22/23)
-- Journal reviewer: IEEE Transactions on Computational Social Systems (24), ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
-- Organizer:
-  - May 2020 - Aug 2020. [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2
-  - Jun 2019 - Nov 2019. [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/) [[data & codes]](https://github.com/chujiezheng/ChID-Dataset/tree/master/Competition)
