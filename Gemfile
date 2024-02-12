@@ -17,6 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 ruby "3.1.4"
 
 gem "jekyll", "~> 3.9.3"
+gem 'jekyll-relative-links', '~> 0.7.0'
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
