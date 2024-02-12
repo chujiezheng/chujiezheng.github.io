@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Chujie Zheng 郑楚杰"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
