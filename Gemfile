@@ -14,9 +14,9 @@ source "https://rubygems.org"
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-ruby "3.2.3"
+ruby "3.1.4"
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 3.9.3"
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
