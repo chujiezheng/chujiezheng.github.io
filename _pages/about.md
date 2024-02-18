@@ -23,14 +23,15 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 ## Highlighted Papers
 
-1. **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng. *Prompt-Driven LLM Safeguarding via Directed Representation Optimization*. <u>arXiv:2401.18018</u>. [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green)
-2. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>ICLR 2024 <strong><font color=red bold>(Spotlight: 5%)</font></strong></u>. [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/robustness-blue)
-3. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/alignment-red)
+1. **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng. *Prompt-Driven LLM Safeguarding via Directed Representation Optimization*. <u>arXiv:2401.18018</u>. [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
+2. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>ICLR 2024 <strong><font color=red bold>(Spotlight: 5%)</font></strong></u>. [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/interpretability-gray)
+3. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
 4. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-yellow)
 
-## Other Papers
+<details>
+<summary> Other Papers </summary>
 
-*\* indicates equal contribution.*
+<i> \* indicates equal contribution. </i>
 
 1. Jinfeng Zhou\*, **Chujie Zheng\***, Bo Wang, Zheng Zhang, Minlie Huang. *CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation*. <u>ACL 2023</u>. [[paper]](https://arxiv.org/abs/2208.08845) [[repo]](https://github.com/jfzhouyoo/CASE) ![](https://img.shields.io/badge/social_good-yellow)
 2. Yuxian Gu\*, Jiaxin Wen\*, Hao Sun\*, Yi Song, Pei Ke, **Chujie Zheng**, Zheng Zhang, Jianzhu Yao, Lei Liu, Xiaoyan Zhu, Minlie Huang. *EVA2.0: Investigating Open-domain Chinese Dialogue Systems with Large-scale Pre-training*. <u>Machine Intelligence Research 2023</u>. [[paper]](https://arxiv.org/abs/2203.09313) [[repo]](https://github.com/thu-coai/EVA) ![](https://img.shields.io/badge/LLM-purple)
@@ -47,6 +48,8 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 13. Hao Zhou\*, **Chujie Zheng\***, Kaili Huang, Minlie Huang, Xiaoyan Zhu. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. <u>ACL 2020</u>. [[paper]](https://arxiv.org/abs/2004.04100) [[repo]](https://github.com/thu-coai/KdConv)
 14. **Chujie Zheng**, Minlie Huang, Aixin Sun. *ChID: A Large-scale Chinese IDiom Dataset for Cloze Test*. <u>ACL 2019</u>. [[paper]](https://arxiv.org/abs/1906.01265) [[repo]](https://github.com/chujiezheng/ChID-Dataset)
 
+</details>
+
 ## Education
 
 - Aug 2020 - present. Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
@@ -56,9 +59,8 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 ## Services
 
 - **Area Chair:** ACL (24), ACL Rolling Review (24)
-- **Conference Reviewer:** ICML (24), COLM (24), ACL (22/23/24), EMNLP (21/22/23), NAACL (24), EACL (23), ACL Rolling Review (21/22/23/24), AAAI (22/23)
+- **Conference Reviewer:** ICML (24), COLM (24), ICLR (24), ACL (22/23/24), EMNLP (21/22/23), NAACL (24), EACL (23), ACL Rolling Review (21/22/23/24), AAAI (22/23)
 - **Journal Reviewer:** IEEE Transactions on Computational Social Systems (24), ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
-- **Competition Organizer:**  [SMP2020-ECDT](https://smp2020.aconf.cn/smp.html#3) Task 2, [Chinese Idiom MRC Competition](https://biendata.com/competition/idiom/)
 
 ## Awards and Honors
 
