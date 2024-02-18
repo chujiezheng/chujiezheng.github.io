@@ -28,7 +28,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 3. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
 4. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-yellow)
 
-See [here](/publications/) for my full publication list.
+You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ) or from [this page](/papers/).
 
 ## Education
 

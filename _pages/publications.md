@@ -1,10 +1,8 @@
 ---
-title: "Publications"
-permalink: /publications/
+permalink: /papers/
+title: "Papers"
 author_profile: true
 ---
-
-You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
 *\* indicates equal contribution.*
 
