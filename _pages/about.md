@@ -15,15 +15,16 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 ## News
 
-* **[Collaboration or Mentorship]** If you would like my collaboration or mentorship for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[01/2024]** Arxived our paper on understanding and improving safety prompts in safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Our paper on LLMs' evaluation bias in MCQ benchmarks is accpeted to **ICLR 2024** for <strong><font color="red">Spotlight presentation (5%)</font></strong> [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna🇦🇹!
+* **[*Pinned: Collaboration or Mentorship*]** If you would like my collaboration or mentorship for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
+* **[03/2024]** Our paper on understanding the working mechanisms of safety prompts will be presented at **SeT LLM Workshop @ ICLR 2024** 🇦🇹 [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Arxived our paper on understanding the working mechanisms of safety prompts in safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Our paper on LLMs' evaluation bias in MCQ benchmarks is accpeted to **ICLR 2024** for <strong><font color="red">Spotlight presentation (5%)</font></strong> [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on LLMs' evaluation bias in MCQ benchmarks [[paper]](https://arxiv.org/abs/2309.03882)
 
 ## Selected Papers (*: Equal Contributions)
 
-1. **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng. *On Prompt-Driven Safeguarding for Large Language Models*. <u>arXiv:2401.18018</u>. [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
+1. **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng. *On Prompt-Driven Safeguarding for Large Language Models*. <u>SeT LLM @ ICLR 2024</u>. [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
 2. **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang. *Large Language Models Are Not Robust Multiple Choice Selectors*. <u>ICLR 2024 <strong><font color=red bold>(Spotlight: 5%)</font></strong></u>. [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/interpretability-gray)
 3. **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang. *Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
 4. **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang. *AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation*. <u>ACL 2023 Findings</u>. [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-yellow)
