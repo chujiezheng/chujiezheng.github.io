@@ -41,7 +41,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-yellow)
 5. **Towards Emotional Support Dialog Systems**<br />
-   Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal Contributions)<br />
+   Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
    *ACL 2021*<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
 
