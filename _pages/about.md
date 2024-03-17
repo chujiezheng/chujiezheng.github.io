@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>scalable alignment for LLMs</font>**. My recent researches made efforts to understand the intrinsic working mechanisms of modern LLMs ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), discover their limitations and risks ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), and align them with human expectations and social norms ([preprint](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). Devoting all passion and wistom, my ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
+I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>**. My recent researches made efforts to understand the intrinsic working mechanisms of modern LLMs ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), discover their limitations and risks ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), and align them with human expectations and social norms ([preprint](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). Devoting all passion and wistom, my ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
 
 Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
 
@@ -56,8 +56,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Services
 
 - **Area Chair:** ACL (24), ACL Rolling Review (24)
-- **Conference Reviewer:** ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
-- **Journal Reviewer:** IEEE Transactions on Computational Social Systems (24), ACM Transactions on the Web (22), ACM Transactions on Intelligent Systems and Technology (22), Knowledge-Based Systems (21)
+- **Reviewer:** ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
 
 ## Awards and Honors
 
