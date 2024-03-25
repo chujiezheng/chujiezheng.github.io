@@ -15,10 +15,10 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 ## News
 
-* **[*Pinned: Collaboration or Mentorship*]** If you would like my collaboration or mentorship for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[03/2024]** Our paper on understanding the working mechanisms of safety prompts will be presented at **<font color="red">SeT LLM Workshop @ ICLR 2024</font>** 🇦🇹 [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Arxived our paper on understanding the working mechanisms of safety prompts in safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Our paper on LLMs' evaluation bias in MCQ benchmarks is accpeted to **<font color="red">ICLR 2024</font>** for **<font color="red">Spotlight presentation (5%)</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
+* **[*Pinned: Collaboration*]** If you would like my collaboration for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
+* **[03/2024]** Our paper on the working mechanisms of safety prompts is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
+* **[01/2024]** Arxived our paper on the working mechanisms of safety prompts in safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Our paper on LLMs' evaluation bias in MCQ benchmarks is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on LLMs' evaluation bias in MCQ benchmarks [[paper]](https://arxiv.org/abs/2309.03882)
 
@@ -26,7 +26,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 1. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
-   *Secure and Trustworthy LLM Workshop @ ICLR 2024*<br />
+   *Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
 2. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
