@@ -16,13 +16,13 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 ## News
 
 * **[*Pinned: Collaboration*]** If you would like my collaboration for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[04/2024]** Arxived our paper on LLM alignment via model extrapolation (ExPO) [[paper]](https://arxiv.org/abs/2404.16792)
-* **[03/2024]** Our DRO paper is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
-* **[02/2024]** Released a GitHub repository that collects HuggingFace LLMs' chat templates [[repo]](https://github.com/chujiezheng/chat_templates). Try it!
-* **[01/2024]** Arxived our paper on safety prompt optimization (DRO) for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Our PriDe paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
-* **[11/2023]** Started a one-year visiting research at UCLA, hosted by Nanyun Peng
-* **[09/2023]** Arxived our paper on debiasing LLMs (PriDe) in MCQ evaluation [[paper]](https://arxiv.org/abs/2309.03882)
+* **[04/2024]** Arxived our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
+* **[03/2024]** Our **DRO** paper is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
+* **[02/2024]** Released a GitHub repository of **chat templates** for HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates). Try it!
+* **[01/2024]** Arxived our paper on safety prompt optimization **(DRO)** for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Our **PriDe** paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
+* **[11/2023]** Started my visiting research at UCLA, hosted by Nanyun Peng
+* **[09/2023]** Arxived our paper on debiasing LLMs (**PriDe**) in MCQ evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
 ## Selected Projects
 
