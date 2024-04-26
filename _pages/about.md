@@ -7,40 +7,47 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (English)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (updated: 04/2024)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>**. My recent researches made efforts to understand the intrinsic working mechanisms of modern LLMs ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), discover their limitations and risks ([preprint](https://arxiv.org/abs/2401.18018), [ICLR 2024](https://openreview.net/forum?id=shr9PXz7T0)), and align them with human expectations and social norms ([preprint](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). Devoting all passion and wistom, my ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
+I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [SeT LLM @ ICLR 2024](https://arxiv.org/abs/2401.18018), [ACL 2023 Findings](https://arxiv.org/abs/2306.03350)). My ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
 
 Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
 
 ## News
 
 * **[*Pinned: Collaboration*]** If you would like my collaboration for your research projects, feel free to reach out! Besides the aforementioned research interest, I am also open to exploring unconventional or under-defined research problems!
-* **[03/2024]** Our paper on the working mechanisms of safety prompts is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
-* **[01/2024]** Arxived our paper on the working mechanisms of safety prompts in safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Our paper on LLMs' evaluation bias in MCQ benchmarks is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
+* **[04/2024]** Arxived our paper on LLM alignment via model extrapolation (ExPO) [[paper]](https://arxiv.org/abs/2404.16792)
+* **[03/2024]** Our DRO paper is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
+* **[02/2024]** Released a GitHub repository that collects HuggingFace LLMs' chat templates [[repo]](https://github.com/chujiezheng/chat_templates). Try it!
+* **[01/2024]** Arxived our paper on safety prompt optimization (DRO) for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
+* **[01/2024]** Our PriDe paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[openreview]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
 * **[11/2023]** Started a one-year visiting research at UCLA, hosted by Nanyun Peng
-* **[09/2023]** Arxived our paper on LLMs' evaluation bias in MCQ benchmarks [[paper]](https://arxiv.org/abs/2309.03882)
+* **[09/2023]** Arxived our paper on debiasing LLMs (PriDe) in MCQ evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
-## Selected Papers
+## Selected Projects
 
-1. **On Prompt-Driven Safeguarding for Large Language Models**<br />
+1. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
+   **Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
+   *arXiv:2404.16792*<br />
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
+2. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
-2. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
+3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(170+ Stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-purple)
+4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/robustness-blue) ![](https://img.shields.io/badge/interpretability-gray)
-3. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
+5. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
-4. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
+6. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
    **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/social_good-yellow)
-5. **Towards Emotional Support Dialog Systems**<br />
+7. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
    *ACL 2021*<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
