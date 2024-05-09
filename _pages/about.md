@@ -20,7 +20,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 * **[*Pinned: Collaboration*]** If you would like my collaboration for your research projects, feel free to reach out! I am particularly open to exploring unconventional or under-defined research problems!
 * **[05/2024]** Our **DRO** paper is accpeted at **<font color="red">ICML 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹 (again)!
 * **[04/2024]** Arxived our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
-* **[03/2024]** Our **DRO** paper is accpeted for **<font color="red">Oral presentation at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
+* **[03/2024]** Our **DRO** paper is accpeted for **<font color="red">Oral presentation (8%) at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
 * **[02/2024]** Released a GitHub repository of **chat templates** for HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates). Try it!
 * **[01/2024]** Arxived our paper on safety prompt optimization **(DRO)** for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
 * **[01/2024]** Our **PriDe** paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[paper]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
@@ -31,13 +31,13 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 1. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
-   *arXiv:2404.16792*<br />
-   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
+   *arXiv:2404.16792 **<font color=red bold>(6K+ downloads on HuggingFace in 2 weeks)</font>***<br />
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)  ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red)
 2. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
-   *ICML 2024* || *Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral)</font>***<br />
+   *ICML 2024* || *Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 8%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-purple) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/safety-green) ![](https://img.shields.io/badge/interpretability-gray)
-3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(190+ Stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-purple)
+3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(200+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-purple)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
