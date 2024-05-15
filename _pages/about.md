@@ -17,7 +17,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 ## News
 
-* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">8K+ downloads in 2 weeks</font>** on [HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
+* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
 * **[05/2024]** Our **DRO** paper is accpeted at **<font color="red">ICML 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹 (again)!
 * **[04/2024]** Arxived our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
 * **[03/2024]** Our **DRO** paper is accpeted for **<font color="red">Oral presentation (5%) at the SeT LLM workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
