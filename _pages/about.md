@@ -50,7 +50,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
-7. **CDConv: A Benchmark for Contradiction Detection in Chinese Conversations**<br />**Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang<br />*EMNLP 2022 **<font color=red bold>(Oral: 4%)</font>***<br />
+7. **CDConv: A Benchmark for Contradiction Detection in Chinese Conversations**<br />**Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang<br />*EMNLP 2022 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) 
 8. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
