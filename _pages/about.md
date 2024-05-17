@@ -32,25 +32,27 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 1. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
    *arXiv:2404.16792 **<font color=red bold>(10K+ downloads on HuggingFace in 2 weeks)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)  ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-helpful-red)
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)  ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
 2. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-harmless-red) ![](https://img.shields.io/badge/interpretability-green)
-3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(220+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
+   [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
+3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(230+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
-   [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-honest-red) ![](https://img.shields.io/badge/interpretability-green)
+   [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 5. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
-   [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-helpful-red)
+   [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
 6. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
    **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
-7. **Towards Emotional Support Dialog Systems**<br />
+7. **CDConv: A Benchmark for Contradiction Detection in Chinese Conversations**<br />**Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang<br />*EMNLP 2022 **<font color=red bold>(Oral: 4%)</font>***<br />
+   [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) 
+8. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
    *ACL 2021*<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
