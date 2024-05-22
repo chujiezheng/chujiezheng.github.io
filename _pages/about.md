@@ -32,7 +32,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 1. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
    *arXiv:2404.16792 **<font color=red bold>(10K+ downloads on HuggingFace in 2 weeks)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)  ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
 2. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
@@ -68,7 +68,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Services
 
 - **Area Chair:** ACL (24), ACL Rolling Review (24)
-- **Reviewer:** ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
+- **Reviewer:** NeurIPS (24), ICML (24), ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
 
 ## Awards and Honors
 
