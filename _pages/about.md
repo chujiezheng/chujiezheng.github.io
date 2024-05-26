@@ -37,7 +37,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
-3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(230+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
+3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(240+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
