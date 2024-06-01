@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (updated: 05/2024)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (updated: 06/2024)](./cv_chujie_en.pdf).
 
 **<font color=red>I am on the job market (2025) and looking for industrial research positions and postdocs. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
@@ -17,7 +17,8 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 ## News
 
-* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
+* **[06/2024]** My [Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ) reaches **<font color="red">1000+ citations</font>**!
+* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [🤗 HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
 * **[05/2024]** Our **DRO** paper is accpeted at **<font color="red">ICML 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹 (again)!
 * **[04/2024]** Arxived our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
 * **[03/2024]** Our **DRO** paper is accpeted for **<font color="red">Oral presentation (5%) at the Secure and Trustworthy LLM Workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
@@ -31,13 +32,13 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
 
 1. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
-   *arXiv:2404.16792 **<font color=red bold>(10K+ downloads on HuggingFace in 2 weeks)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
+   *arXiv:2404.16792 **<font color=red bold>(10K+ downloads on 🤗 HuggingFace in 2 weeks)</font>***<br />
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
 2. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
-3. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(240+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
+3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(260+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
@@ -50,8 +51,6 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
-7. **CDConv: A Benchmark for Contradiction Detection in Chinese Conversations**<br />**Chujie Zheng\***, Jinfeng Zhou\*, Yinhe Zheng, Libiao Peng, Zhen Guo, Wenquan Wu, Zhengyu Niu, Hua Wu, Minlie Huang<br />*EMNLP 2022 **<font color=red bold>(Oral)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2210.08511) [[repo]](https://github.com/thu-coai/CDConv) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) 
 8. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
    *ACL 2021*<br />
