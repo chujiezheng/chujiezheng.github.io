@@ -38,7 +38,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
-3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(260+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
+3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(280+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
@@ -47,13 +47,9 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Pei Ke, Zheng Zhang, Minlie Huang<br />
    *ACL 2023 Findings*<br />
    [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
-6. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
-   **Chujie Zheng**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
-   *ACL 2023 Findings*<br />
-   [[paper]](https://arxiv.org/abs/2202.13047) [[repo]](https://github.com/thu-coai/AugESC) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
-8. **Towards Emotional Support Dialog Systems**<br />
+6. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **Chujie Zheng\***, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
-   *ACL 2021*<br />
+   *ACL 2021 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
@@ -66,7 +62,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Services
 
-- **Area Chair:** ACL (24), ACL Rolling Review (24)
+- **Area Chair:** ACL (24), EMNLP (24), ACL Rolling Review (24)
 - **Reviewer:** NeurIPS (24), ICML (24), ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
 
 ## Awards and Honors
