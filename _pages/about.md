@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am Chujie Zheng ("Chujie" pronounced similarly to "Cho-Jay"), a fourth-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I am also currently a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics, Tsinghua University. You can find my [**CV here** (updated: 06/2024)](./cv_chujie_en.pdf).
 
-**<font color=red>I am on the job market (2025) and looking for industrial research positions and postdocs. Do not hesitate to reach out to me if you think I am a good fit!</font>**
+**<font color=red>I am on the job market (2025) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
 I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018)). My ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
 
@@ -38,7 +38,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    **Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || Secure and Trustworthy LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
-3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(280+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
+3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**Chujie Zheng**<br />*GitHub Repository **<font color=red bold>(310+ stars)</font>*** <br />[[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
@@ -76,8 +76,9 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Talks
 
-- Feb 2024, AI Time. *Large Language Models Are Not Robust Multiple Choice Selectors*. [[video]](https://www.bilibili.com/video/BV1eF4m1579H)
+- Jun 2024, AI Time. *On Prompt-Driven Safeguarding for Large Language Models **(ICML 2024)***. [[video]](https://www.bilibili.com/video/BV1TD421g7E1)
+- Feb 2024, AI Time. *Large Language Models Are Not Robust Multiple Choice Selectors **(ICLR 2024 Spotlight)***. [[video]](https://www.bilibili.com/video/BV1eF4m1579H)
 - Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*.
-- Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems*. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
-- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation*. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
-- Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation*. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
+- Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems **(ACL 2021)***. [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
+- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation **(EMNLP 2020 Findings)***. [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
+- Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation **(ACL 2020)***. [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
