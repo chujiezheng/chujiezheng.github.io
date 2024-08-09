@@ -11,9 +11,11 @@ Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://c
 
 **<font color=red>I am on the job market (2025) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
-I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018)). My ultimate research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they operate transparently and responsibly**.
+I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). My research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they work responsibly**.
 
-Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv), and am proud of them stimulating follow-up work!
+Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
+
+I also maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>390+</font>** stars.
 
 ## News
 
@@ -41,7 +43,7 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />
    **<u>Chujie Zheng</u>**<br />
-   *GitHub Repository **<font color=red bold>(330+ stars)</font>*** <br />
+   *GitHub Repository **<font color=red bold>(390+ stars)</font>*** <br />
    [[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
@@ -49,9 +51,13 @@ Previously, I conducted research on **LLMs for social good**, with a main focus 
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 5. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **<u>Chujie Zheng</u>**, Pei Ke, Zheng Zhang, Minlie Huang<br />
-   *ACL 2023 Findings*<br />
+   *ACL 2023 Findings **<font color=red bold>(Early work of preference optimization; completed in 2022)</font>***<br />
    [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
-6. **Towards Emotional Support Dialog Systems**<br />
+6. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
+   **<u>Chujie Zheng</u>**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
+   *ACL 2023 Findings **<font color=red bold>(Early work of LLM-based data synthesis; completed in 2021)</font>***<br />
+   [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
+7. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **<u>Chujie Zheng*</u>**, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
    *ACL 2021 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
