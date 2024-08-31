@@ -43,11 +43,11 @@ I also maintain the [GitHub repository](https://github.com/chujiezheng/chat_temp
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />
    **<u>Chujie Zheng</u>**<br />
-   *GitHub Repository **<font color=red bold>(390+ stars)</font>*** <br />
+   *GitHub Repository **<font color=red bold>(400+ stars)</font>*** <br />
    [[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
-   *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
+   *ICLR 2024 **<font color=red bold>(Spotlight: 5%) (Cited by <u>Meta’s LLaMA-3</u>, Google, DeepMind, CMU, etc.)</font>***<br />
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 5. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **<u>Chujie Zheng</u>**, Pei Ke, Zheng Zhang, Minlie Huang<br />
