@@ -67,7 +67,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Education
 
 - Aug 2020 - present. **Ph.D candidate** in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 - Jun 2023. **Visiting Scholar**, UCLA. Advisor: [Nanyun (Violet) Peng](https://vnpeng.net/)
+- Nov 2023 - Jun 2024. **Visiting Scholar**, UCLA. Advisor: [Nanyun (Violet) Peng](https://vnpeng.net/)
 - Aug 2016 - Jul 2020. **B.Sc.** in Foundational Mathematics and Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Work Experiences
