@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, fortunately advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, fortunately hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). I received my B.Sc degree from Dept. of Physics at Tsinghua University. You can find my [**CV here** (updated: 07/2024)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 07/2024)](./cv_chujie_en.pdf).
 
 **<font color=red>I am on the job market (2025) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
-I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). My research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they work responsibly**.
+I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). My research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they work responsibly and transparently**.
 
 Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 
-I also maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>390+</font>** stars.
+I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>400+</font>** stars.
 
 ## News
 
@@ -67,7 +67,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Education
 
 - Aug 2020 - present. **Ph.D candidate** in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 - Jun 2024. **Visiting Scholar**, UCLA. Advisor: [Nanyun (Violet) Peng](https://vnpeng.net/)
+- Nov 2023 - Jun 2024. **Visiting Scholar**, UCLA. Host: [Nanyun (Violet) Peng](https://vnpeng.net/)
 - Aug 2016 - Jul 2020. **B.Sc.** in Foundational Mathematics and Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Work Experiences
@@ -79,7 +79,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Services
 
 - **Area Chair:** ACL (24), EMNLP (24), ACL Rolling Review (24)
-- **Reviewer:** NeurIPS (24), ICML (24), COLM (24), ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
+- **Reviewer:** ICLR (25), NeurIPS (24), ICML (24), COLM (24), ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
 
 ## Awards and Honors
 
@@ -92,6 +92,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Talks
 
+- Jul 2024, AI Tlite Think Tank, WAIC 2024. *Towards Efficient LLM Alignment*
 - Jun 2024, AI Time. *On Prompt-Driven Safeguarding for Large Language Models **(ICML 2024)*** [[video]](https://www.bilibili.com/video/BV1TD421g7E1)
 - Feb 2024, AI Time. *Large Language Models Are Not Robust Multiple Choice Selectors **(ICLR 2024 Spotlight)*** [[video]](https://www.bilibili.com/video/BV1eF4m1579H)
 - Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*
