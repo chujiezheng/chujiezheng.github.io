@@ -51,11 +51,11 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 5. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **<u>Chujie Zheng</u>**, Pei Ke, Zheng Zhang, Minlie Huang<br />
-   *ACL 2023 Findings **<font color=red bold>(Early work of preference optimization; completed in 2022)</font>***<br />
+   *Findings of ACL 2023 **<font color=red bold>(Early work of preference optimization; completed in 2022)</font>***<br />
    [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red)
 6. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
    **<u>Chujie Zheng</u>**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
-   *ACL 2023 Findings **<font color=red bold>(Early work of LLM-based data synthesis; completed in 2021)</font>***<br />
+   *Findings of ACL 2023 **<font color=red bold>(Early work of LLM-based data synthesis; completed in 2021)</font>***<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
 7. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **<u>Chujie Zheng*</u>**, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
@@ -97,5 +97,5 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 - Feb 2024, AI Time. *Large Language Models Are Not Robust Multiple Choice Selectors **(ICLR 2024 Spotlight)*** [[video]](https://www.bilibili.com/video/BV1eF4m1579H)
 - Nov 2022, Shanghai AI Lab. *Towards Well-behaved Dialogue Systems*
 - Jul 2021, AI Time. *Approaches of Empathy Expression and Emotional Support in Dialogue Systems **(ACL 2021)*** [[video]](https://www.bilibili.com/video/BV1YB4y1N7L7/)
-- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation **(EMNLP 2020 Findings)*** [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
+- Nov 2020, Biendata & PaperWeekly. *Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation **(Findings of EMNLP 2020)*** [[video]](https://www.bilibili.com/video/BV1fZ4y137UJ/)
 - Jul 2020, AI Time. *KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation **(ACL 2020)*** [[video]](https://www.bilibili.com/video/BV1g54y1D7TG/)
