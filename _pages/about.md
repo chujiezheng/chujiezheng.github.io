@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 07/2024)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 09/2024)](./cv_chujie_en.pdf).
 
 **<font color=red>I am on the job market (2025) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
@@ -59,7 +59,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/social_good-yellow)
 7. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **<u>Chujie Zheng*</u>**, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
-   *ACL 2021 **<font color=red bold>(Oral)</font>***<br />
+   *ACL-IJCNLP 2021 **<font color=red bold>(Oral)</font>***<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation) ![](https://img.shields.io/badge/social_good-yellow)
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
