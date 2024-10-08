@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 09/2024)](./cv_chujie_en.pdf).
+Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 10/2024)](./cv_chujie_en.pdf).
 
 **<font color=red>I am on the job market (2025) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!</font>**
 
@@ -43,7 +43,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />
    **<u>Chujie Zheng</u>**<br />
-   *GitHub Repository **<font color=red bold>(460+ stars)</font>*** <br />
+   *GitHub Repository **<font color=red bold>(480+ stars)</font>*** <br />
    [[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
@@ -72,9 +72,10 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Work Experiences
 
-* Jul 2024 - present. Research Intern. LLM Alignment & Reinforcement Group, **01.AI**
-* Feb 2023 - May 2024. Research Intern. Pattern Recognition Center, WeChat AI, **Tencent**
-* Feb 2022 - Jun 2022. Research Intern. General Dialogue Group, **Baidu**
+* Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
+* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**
+* Feb 2023 - May 2024. Research Intern. WeChat AI Group, **Tencent**
+* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**
 
 ## Services
 
