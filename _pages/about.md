@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here** (updated: 10/2024)](./cv_chujie_en.pdf).
 
-I have a broad research interest in **building trustworthy AI systems**, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). My research goal is to **advance and oversee AI systems in a scalable way (with minimal human intervention) and ensure they work responsibly and transparently**.
+I have a broad research interest in building **efficient, scalable, and trustworthy** AI systems, with the current focus on **<font color=red>LLM alignment</font>** ([preprint](https://arxiv.org/abs/2404.16792), [ICLR 2024 Spotlight](https://openreview.net/forum?id=shr9PXz7T0), [ICML 2024](https://arxiv.org/abs/2401.18018), [ACL 2023](https://arxiv.org/abs/2306.03350)). My research goal is to **advance and oversee AI systems with minimal human intervention and ensure they work responsibly and transparently**.
 
 Previously, I conducted research on **LLMs for social good**, with a main focus on building LLMs for emotional support ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 
@@ -17,7 +17,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 ## News
 
-* **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during my internship at <font color=red bold>01.AI</font>, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Big congrats to the team! 🍻**
+* **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during internship at <font color=red bold>01.AI</font>, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Huge congrats to the team! 🍻**
 * **[06/2024]** Our **ExPO** paper is accpeted at **<font color="IndianRed">Models of Human Feedback for AI Alignment Workshop @ ICML 2024</font>** [[paper]](https://arxiv.org/abs/2404.16792)
 * **[06/2024]** My [Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ) reaches **<font color="red">1000+ citations</font>**!
 * **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [🤗 HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
@@ -72,7 +72,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
-* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning via reward model enhancement.<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024).**
+* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning via reward model enhancement<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
 * Feb 2023 - May 2024. Research Intern. WeChat AI Group, **Tencent**
 * Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**<br/>Improved **PLATO**'s dialogue consistency via building contradiction detectors.
 
