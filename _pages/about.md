@@ -17,7 +17,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 ## News
 
-* **[10/2024]** **Yi-Lightning**, which I contributed to during my internship at **01.AI**, ranks **<font color=red bold>#6</font>** on Chatbot Arena and **<font color=red bold>#3</font>** in **<font color=red bold>Math</font>** Category (as of 10/14/2024)! Big congrats to the team! 🍻
+* **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during my internship at <font color=red bold>01.AI</font>, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Big congrats to the team! 🍻**
 * **[06/2024]** Our **ExPO** paper is accpeted at **<font color="IndianRed">Models of Human Feedback for AI Alignment Workshop @ ICML 2024</font>** [[paper]](https://arxiv.org/abs/2404.16792)
 * **[06/2024]** My [Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ) reaches **<font color="red">1000+ citations</font>**!
 * **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [🤗 HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
@@ -72,7 +72,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
-* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning via reward model enhancement.<br/>**Yi-Lightning ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024).**
+* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning via reward model enhancement.<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024).**
 * Feb 2023 - May 2024. Research Intern. WeChat AI Group, **Tencent**
 * Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**<br/>Improved **PLATO**'s dialogue consistency via building contradiction detectors.
 
