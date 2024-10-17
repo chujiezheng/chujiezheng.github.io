@@ -13,7 +13,7 @@ I have a broad research interest in building **efficient, scalable, and trustwor
 
 I have conducted extensive research on **LLMs for social good**, with a main focus on building **LLMs for emotional support** ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 
-I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>400+</font>** stars.
+I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>490+</font>** stars.
 
 ## News
 
@@ -42,7 +42,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard) ![](https://img.shields.io/badge/LLM-blue) ![](https://img.shields.io/badge/alignment-red) ![](https://img.shields.io/badge/interpretability-green)
 3. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />
    **<u>Chujie Zheng</u>**<br />
-   *GitHub Repository **<font color=red bold>(480+ stars)</font>*** <br />
+   *GitHub Repository **<font color=red bold>(490+ stars)</font>*** <br />
    [[repo]](https://github.com/chujiezheng/chat_templates) ![](https://img.shields.io/badge/LLM-blue)
 4. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
@@ -72,8 +72,13 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
-* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning ability via reward model enhancement<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
-* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**<br/>Improved **PLATO**'s dialogue consistency via building contradiction detectors
+* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**
+  * Improved **Yi**'s mathematical reasoning ability via reward model enhancement
+  * **<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
+
+* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**
+  * Improved **PLATO**'s dialogue consistency via building contradiction detectors
+
 
 ## Services
 
