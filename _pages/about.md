@@ -72,9 +72,9 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
-* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning via reward model enhancement<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
+* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**<br/>Improved **Yi**'s mathematical reasoning ability via reward model enhancement<br/>**<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
 * Feb 2023 - May 2024. Research Intern. WeChat AI Group, **Tencent**
-* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**<br/>Improved **PLATO**'s dialogue consistency via building contradiction detectors.
+* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**<br/>Improved **PLATO**'s dialogue consistency via building contradiction detectors
 
 ## Services
 
