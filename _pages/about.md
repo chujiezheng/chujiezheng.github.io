@@ -13,20 +13,21 @@ I have a broad research interest in building **efficient, scalable, and trustwor
 
 I have conducted extensive research on **LLMs for social good**, with a main focus on building **LLMs for emotional support** ([ACL 2021](https://arxiv.org/abs/2106.01144), [ACL 2023 Findings](https://arxiv.org/abs/2202.13047)). I have also built a series of **popular NLP datasets**, including [**ChID**](https://github.com/chujiezheng/ChID-Dataset), [**KDConv**](https://github.com/thu-coai/KdConv), [**ESConv**](https://github.com/thu-coai/Emotional-Support-Conversation), and [**CDConv**](https://github.com/thu-coai/CDConv).
 
-I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>490+</font>** stars.
+I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>500+</font>** stars.
 
 ## News
 
+* **[10/2024]** The **Chat Template** repository received **<font color="red">500+ stars</font>** [[repo]](https://github.com/chujiezheng/chat_templates)
 * **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during internship at <font color=red bold>01.AI</font>, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Huge congrats to the team! 🍻**
 * **[06/2024]** Our **ExPO** paper is accpeted at **<font color="IndianRed">Models of Human Feedback for AI Alignment Workshop @ ICML 2024</font>** [[paper]](https://arxiv.org/abs/2404.16792)
-* **[06/2024]** My [Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ) reaches **<font color="red">1000+ citations</font>**!
-* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) have received **<font color="red">10K+ downloads in 2 weeks</font>** on [🤗 HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)!
+* **[06/2024]** My [Google Scholar profile](https://scholar.google.com/citations?user=55zBNgUAAAAJ) reached **<font color="red">1000+ citations</font>**!
+* **[05/2024]** Our uploaded **ExPO**-enhanced LLMs [[paper]](https://arxiv.org/abs/2404.16792) received **<font color="red">10K+ downloads in 2 weeks</font>** on [🤗 HuggingFace](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
 * **[05/2024]** Our **DRO** paper is accpeted at **<font color="red">ICML 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018)
 * **[04/2024]** Arxived our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
-* **[03/2024]** Our **DRO** paper is accpeted for **<font color="IndianRed">Oral presentation (5%) at the Secure and Trustworthy LLM Workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018). See you in Vienna 🇦🇹!
-* **[02/2024]** Released a GitHub repository of **chat templates** for HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates). Try it!
+* **[03/2024]** Our **DRO** paper is accpeted for **<font color="IndianRed">Oral presentation (5%) at the Secure and Trustworthy LLM Workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018)
+* **[02/2024]** Released a GitHub repository of **chat templates** for HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates)
 * **[01/2024]** Arxived our paper on safety prompt optimization **(DRO)** for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
-* **[01/2024]** Our **PriDe** paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[paper]](https://openreview.net/forum?id=shr9PXz7T0). See you in Vienna 🇦🇹!
+* **[01/2024]** Our **PriDe** paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[paper]](https://openreview.net/forum?id=shr9PXz7T0)
 * **[11/2023]** Started my visiting research at UCLA, hosted by Nanyun Peng
 * **[09/2023]** Arxived our paper on debiasing LLMs **(PriDe)** in MCQ evaluation [[paper]](https://arxiv.org/abs/2309.03882)
 
