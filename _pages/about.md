@@ -17,6 +17,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 ## News
 
+* **[11/2024]** **We (Qwen team) release <font color=red bold>QwQ-32B-Preview</font>, an experimental model tailored for reasoning.** Hope you enjoy it ❤️ [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
 * **[10/2024]** The **Chat Template** repository received **<font color="red">500+ stars</font>** [[repo]](https://github.com/chujiezheng/chat_templates)
 * **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during internship at <font color=red bold>01.AI</font>, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Huge congrats to the team! 🍻**
 * **[06/2024]** Our **ExPO** paper is accpeted at **<font color="IndianRed">Models of Human Feedback for AI Alignment Workshop @ ICML 2024</font>** [[paper]](https://arxiv.org/abs/2404.16792)
@@ -73,6 +74,8 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
+  * Contributed to the **<font color=red bold>QwQ-32B-Preview</font>** reasoning model [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
+
 * Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**
   * Improved **Yi**'s mathematical reasoning ability via reward model enhancement
   * **<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)**
