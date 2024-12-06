@@ -39,11 +39,11 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 2. **Yi-Lightning Technical Report**<br />01.AI<br />[[tech report]](https://arxiv.org/abs/2412.01253)
 3. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **<u>Chujie Zheng</u>**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
-   *MHFAIA Workshop @ ICML 2024 **<font color=red bold>(70K+ downloads) (Cited by DeepMind, Oxford, etc.)</font>***<br />
+   *MHFAIA Workshop @ ICML 2024 **<font color=red bold>(80K+ downloads)</font>***<br />
    [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
 4. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **<u>Chujie Zheng</u>**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
-   *ICML 2024 || SeT LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%) (Cited by Anthropic, MIT, etc.)</font>***<br />
+   *ICML 2024 || SeT LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
    [[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard)
 5. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />
    **<u>Chujie Zheng</u>**<br />
@@ -51,15 +51,15 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    [[repo]](https://github.com/chujiezheng/chat_templates)
 6. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
-   *ICLR 2024 **<font color=red bold>(Spotlight: 5%) (Cited by <u>Meta’s LLaMA-3</u>, DeepMind, etc.)</font>***<br />
+   *ICLR 2024 **<font color=red bold>(Spotlight: 5%)</font>***<br />
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
 7. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
    **<u>Chujie Zheng</u>**, Pei Ke, Zheng Zhang, Minlie Huang<br />
-   *Findings of ACL 2023 **<font color=red bold>(Early work of preference optimization. Completed in 2022)</font>***<br />
+   *Findings of ACL 2023 **<font color=red bold>(Early work on preference optimization)</font>***<br />
    [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click)
 8. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
    **<u>Chujie Zheng</u>**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
-   *Findings of ACL 2023 **<font color=red bold>(Early work of LLM-based data synthesis. Completed in 2021)</font>***<br />
+   *Findings of ACL 2023 **<font color=red bold>(Early work on LLM-based data synthesis)</font>***<br />
    [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
 9. **Towards Emotional Support Dialog Systems**<br />
    Siyang Liu\*, **<u>Chujie Zheng*</u>**, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
@@ -70,20 +70,20 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Education
 
-- Aug 2020 - present. **Ph.D candidate** in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 - Jun 2024. **Visiting Scholar**, UCLA. Host: [Nanyun (Violet) Peng](https://vnpeng.net/)
-- Aug 2016 - Jul 2020. **B.Sc.** in Foundational Mathematics and Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
+- Aug 2020 – present. **Ph.D candidate** in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Nov 2023 – Jun 2024. **Visiting Scholar**, UCLA. Host: [Nanyun (Violet) Peng](https://vnpeng.net/)
+- Aug 2016 – Jul 2020. **B.Sc.** in Foundational Mathematics and Physics, [Tsinghua University](https://www.tsinghua.edu.cn/). Major GPA: 3.98/4.00 (ranking 2/59)
 
 ## Work Experiences
 
-* Oct 2024 - Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
+* Oct 2024 – Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
   * Contributed to the **<font color=red bold>QwQ-32B-Preview</font>** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
 
-* Jul 2024 - Oct 2024. Research Intern. AI Alignment Team, **01.AI**
+* Jul 2024 – Oct 2024. Research Intern. AI Alignment Team, **01.AI**
   * Improved **Yi**'s mathematical reasoning ability via reward model enhancement
   * **<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)** [[tech report]](https://arxiv.org/abs/2412.01253)
 
-* Feb 2022 - Jun 2022. Research Intern. General Dialogue Team, **Baidu**
+* Feb 2022 – Jun 2022. Research Intern. General Dialogue Team, **Baidu**
   * Improved **PLATO**'s dialogue consistency via building contradiction detectors
 
 
@@ -94,8 +94,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Awards and Honors
 
-- **Schlumberger Scholarship**, Tsinghua University, 2023
-- **Comprehensive Merit Scholarship**, Tsinghua University, 2022/2021
+- **Comprehensive Merit Scholarship**, Tsinghua University, 2021 – 2024
 - **Chi-Sun YEH (叶企孙) Scholarship (Top 5/100)**, Department of Physics, Tsinghua University, 2020
 - **Outstanding Undergraduate**, Tsinghua University, 2020
 - **China National Scholarship (Top 2/100)**, 2019
