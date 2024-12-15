@@ -19,7 +19,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 * **[12/2024]** Release **ProcessBench for measuring process error identification in mathematical reasoning** [[paper]](https://huggingface.co/papers/2412.06559) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench) [[code]](https://github.com/QwenLM/ProcessBench)
 * **[12/2024]** Release **<font color=red bold>Yi-Lightning</font>'s technical report** [[tech report]](https://arxiv.org/abs/2412.01253)
-* **[11/2024]** **Release <font color=red bold>QwQ-32B-Preview</font>, an experimental model tailored for reasoning.** Hope you enjoy it ❤️ [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
+* **[11/2024]** **Release <font color=red bold>QwQ-32B-Preview</font>, an experimental model tailored for reasoning.** Hope you enjoy it ❤️ [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
 * **[10/2024]** The **Chat Template** repository received **<font color="red">500+ stars</font>** [[repo]](https://github.com/chujiezheng/chat_templates)
 * **[10/2024]** **<font color=red bold>Yi-Lightning</font>, which I contributed to during internship at 01.AI, ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)! Huge congrats to the team! 🍻**
 * **[06/2024]** Our **ExPO** paper is accpeted at **<font color="IndianRed">Models of Human Feedback for AI Alignment Workshop @ ICML 2024</font>** [[paper]](https://arxiv.org/abs/2404.16792)
@@ -28,7 +28,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 * **[05/2024]** Our **DRO** paper is accpeted at **<font color="red">ICML 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018)
 * **[04/2024]** Release our paper on LLM alignment via model extrapolation **(ExPO)** [[paper]](https://arxiv.org/abs/2404.16792)
 * **[03/2024]** Our **DRO** paper is accpeted for **<font color="IndianRed">Oral presentation (5%) at the Secure and Trustworthy LLM Workshop @ ICLR 2024</font>** [[paper]](https://arxiv.org/abs/2401.18018)
-* **[02/2024]** Release a GitHub repository of **chat templates** for HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates)
+* **[02/2024]** Release a GitHub repository of **chat templates** for 🤗 HuggingFace LLMs [[repo]](https://github.com/chujiezheng/chat_templates)
 * **[01/2024]** Release our paper on safety prompt optimization **(DRO)** for safeguarding LLMs [[paper]](https://arxiv.org/abs/2401.18018)
 * **[01/2024]** Our **PriDe** paper is accpeted for **<font color="red">Spotlight presentation (5%) at ICLR 2024</font>** [[paper]](https://openreview.net/forum?id=shr9PXz7T0)
 * **[11/2023]** Start my visiting research at UCLA, hosted by Nanyun Peng
@@ -37,12 +37,12 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 ## Selected Projects
 
 1. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2412.06559) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench) [[code]](https://github.com/QwenLM/ProcessBench)
-2. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
+2. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
 3. **Yi-Lightning Technical Report**<br />01.AI<br />[[tech report]](https://arxiv.org/abs/2412.01253)
 4. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
    **<u>Chujie Zheng</u>**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />
    *MHFAIA Workshop @ ICML 2024 **<font color=red bold>(80K+ downloads)</font>***<br />
-   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 HuggingFace]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
+   [[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 model]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
 5. **On Prompt-Driven Safeguarding for Large Language Models**<br />
    **<u>Chujie Zheng</u>**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />
    *ICML 2024 || SeT LLM Workshop @ ICLR 2024 **<font color=red bold>(Oral: 5%)</font>***<br />
@@ -55,18 +55,6 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
    **<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />
    *ICLR 2024 **<font color=red bold>(Spotlight: 5%; Adopted by LLaMA-3’s technical report)</font>***<br />
    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
-8. **Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**<br />
-   **<u>Chujie Zheng</u>**, Pei Ke, Zheng Zhang, Minlie Huang<br />
-   *Findings of ACL 2023 **<font color=red bold></font>***<br />
-   [[paper]](https://arxiv.org/abs/2306.03350) [[repo]](https://github.com/chujiezheng/Click)
-9. **AugESC: Dialogue Augmentation with Large Language Models for Emotional Support Conversation**<br />
-   **<u>Chujie Zheng</u>**, Sahand Sabour, Jiaxin Wen, Zheng Zhang, Minlie Huang<br />
-   *Findings of ACL 2023 **<font color=red bold></font>***<br />
-   [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
-10. **Towards Emotional Support Dialog Systems**<br />
-      Siyang Liu\*, **<u>Chujie Zheng*</u>**, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang (\*: Equal contribution)<br />
-      *ACL-IJCNLP 2021 **<font color=red bold>(Oral)</font>***<br />
-      [[paper]](https://arxiv.org/abs/2106.01144) [[repo]](https://github.com/thu-coai/Emotional-Support-Conversation)
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
@@ -79,14 +67,10 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 * Oct 2024 – Present. Research Intern. Qwen Post-training Team, **Alibaba Cloud**
-  * Contributed to the **<font color=red bold>QwQ-32B-Preview</font>** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
-
+  * Contributed to the **<font color=red bold>QwQ-32B-Preview</font>** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
+  * Built the **<font color=red bold>ProcessBench</font>** benchmark
 * Jul 2024 – Oct 2024. Research Intern. AI Alignment Team, **01.AI**
-  * Improved **Yi**'s mathematical reasoning ability via reward model enhancement
-  * **<font color=red bold>Yi-Lightning</font> ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)** [[tech report]](https://arxiv.org/abs/2412.01253)
-
-* Feb 2022 – Jun 2022. Research Intern. General Dialogue Team, **Baidu**
-  * Improved **PLATO**'s dialogue consistency via building contradiction detectors
+  * Contributed to **<font color=red bold>Yi-Lightning</font>**, which **ranks <font color=red bold>#6</font> on Chatbot Arena and <font color=red bold>#3</font> in <font color=red bold>Math</font> Category (as of 10/14/2024)** [[tech report]](https://arxiv.org/abs/2412.01253)
 
 
 ## Services
