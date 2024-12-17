@@ -17,7 +17,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 ## News
 
-* **[12/2024]** Release **ProcessBench for measuring process error identification in mathematical reasoning** [[paper]](https://huggingface.co/papers/2412.06559) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench) [[code]](https://github.com/QwenLM/ProcessBench)
+* **[12/2024]** Release **ProcessBench for measuring process error identification in mathematical reasoning** [[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
 * **[12/2024]** Release **<font color=red bold>Yi-Lightning</font>'s technical report** [[tech report]](https://arxiv.org/abs/2412.01253)
 * **[11/2024]** **Release <font color=red bold>QwQ-32B-Preview</font>, an experimental model tailored for reasoning.** Hope you enjoy it ❤️ [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
 * **[10/2024]** The **Chat Template** repository received **<font color="red">500+ stars</font>** [[repo]](https://github.com/chujiezheng/chat_templates)
@@ -36,7 +36,7 @@ I maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates
 
 ## Selected Projects
 
-1. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2412.06559) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench) [[code]](https://github.com/QwenLM/ProcessBench)
+1. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
 2. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
 3. **Yi-Lightning Technical Report**<br />01.AI<br />[[tech report]](https://arxiv.org/abs/2412.01253)
 4. **Weak-to-Strong Extrapolation Expedites Alignment**<br />
