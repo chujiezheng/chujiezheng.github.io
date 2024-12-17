@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 Welcome! I am Chujie Zheng, a final-year Ph.D candidate in [CoAI Group](http://coai.cs.tsinghua.edu.cn/) at Tsinghua University, advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). I was a visiting scholar in [PlusLab](https://vnpeng.net/) at UCLA, hosted by Prof. [Nanyun (Violet) Peng](https://vnpeng.net/). You can find my [**CV here**](./cv_chujie_en.pdf)
-
 - I have a broad research interest in building **<font color=red>efficient, scalable, and trustworthy</font>** AI systems. My research goal is to **advance and oversee AI systems with minimal human intervention and ensure they work responsibly and transparently**
-
 - Previously, I have conducted extensive research on **LLMs for social good**, with a main focus on building **LLMs for emotional support**
-
 - I also maintain the [GitHub repository](https://github.com/chujiezheng/chat_templates) of **chat templates for 🤗 LLMs**, which has received **<font color=red>550+</font>** stars
 
 ## News
