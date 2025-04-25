@@ -9,7 +9,7 @@ redirect_from:
 
 I am a researcher in the **Qwen Team** and a final-year Ph.D candidate at **Tsinghua University**, advised by Prof. Minlie Huang.
 
-I am dedicated to building **scalable, generalist AI systems**. My expertise is mainly centered on **data engineering** and **algorithms**, while I'm also actively developing skills related to **infrastructure**.
+I am dedicated to building **scalable, generalist AI systems**. My expertise is mainly centered on **data** and **algorithms**, while I'm also actively developing skills related to **infrastructure**.
 
 - My current work focuses on advancing the **reasoning** capabilities of Qwen models (e.g., QwQ) through **large-scale reinforcement learning (RL)**, enabling them to tackle increasingly complex tasks.
 - My research interests also broadly include model architecture design, interpretability and dynamics, as well as trustworthiness and alignment.
