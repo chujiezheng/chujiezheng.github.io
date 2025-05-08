@@ -13,7 +13,7 @@ I am dedicated to **building scalable, generalist AI systems**. My expertise is 
 
 - My current work focuses on advancing the **reasoning** capabilities of Qwen models (e.g., Qwen3, QwQ) through **large-scale reinforcement learning (RL)**, enabling them to tackle increasingly complex tasks.
 - My research interests also broadly include model architecture design, interpretability and dynamics, as well as trustworthiness and alignment.
-- Previously, I conducted systematic research on LLMs for social good, with a main focus on building emotional support systems.
+- Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
 
@@ -60,7 +60,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 - Oct 2024 – Present. Researcher. Qwen Team, Alibaba Group
   - Built the **Qwen3** series foundation models
-  - Built the **QwQ** series reasoning model
+  - Built the **QwQ** series reasoning models
   - Built **ProcessBench** and **Qwen2.5-Math-PRM-7B/72B** for process supervision in mathematical reasoning
 - Jul 2024 – Oct 2024. Research Intern. 01.AI
   - Built **Yi-Lightning**, which ranks  **<font color=red>#6 on Chatbot Arena</font>** (as of 10/14/2024)
