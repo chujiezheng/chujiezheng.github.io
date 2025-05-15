@@ -19,7 +19,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
-- **[05/2025]** The **ProcessBench**, **ExPO**, and **Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
+- **[05/2025]** The **ExPO**, **ProcessBench**, and **Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
 - **[04/2025]** Release the **Qwen3** series foundation models [[blog]](https://qwenlm.github.io/blog/qwen3/) [[🤗 model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/) 
 - **[03/2025]** Release the **QwQ-32B** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo) 
 - **[01/2025]** Release **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning [[paper]](https://huggingface.co/papers/2501.07301) [[🤗 model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
@@ -41,13 +41,13 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 1. **Qwen3: Think Deeper, Act Faster**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwen3/) [[🤗 model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
 2. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
 3. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
-4. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />*ACL 2025*<br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
-5. **Model Extrapolation Expedites Alignment**<br />**<u>Chujie Zheng</u>**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />*ACL 2025*<br />[[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 model]](https://huggingface.co/collections/chujiezheng/weak-to-strong-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ***<font color=red>(140K+ downloads)</font>***
+4. **Model Extrapolation Expedites Alignment**<br />**<u>Chujie Zheng</u>**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />*ACL 2025*<br />[[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 model]](https://huggingface.co/collections/chujiezheng/model-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ***<font color=red>(140K+ downloads)</font>***
+5. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />*ACL 2025*<br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
 6. **The Lessons of Developing Process Reward Models in Mathematical Reasoning**<br />Zhenru Zhang, **<u>Chujie Zheng</u>**, Yangzhen Wu, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />*Findings of ACL 2025*<br />[[paper]](https://huggingface.co/papers/2501.07301) [[🤗 model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
 7. **Yi-Lightning Technical Report**<br />01.AI<br />[[paper]](https://huggingface.co/papers/2412.01253)
 8. **On Prompt-Driven Safeguarding for Large Language Models**<br />**<u>Chujie Zheng</u>**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />*ICML 2024*<br />[[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard)
 9. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />**<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />*ICLR 2024 **<font color=red>(Spotlight: 5%)</font>***<br />
-  [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
+    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
 10. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**<u>Chujie Zheng</u>**<br />*GitHub Repository **<font color=red>(600+ stars)</font>*** <br />
     [[repo]](https://github.com/chujiezheng/chat_templates)
 
