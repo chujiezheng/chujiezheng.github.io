@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chujie Zheng 郑楚杰"
 title_separator          : "-"
 name                     : &name "Chujie Zheng 郑楚杰"
-description              : &description "Fourth-year Ph.D student at Tsinghua University"
+description              : &description "Researcher @Qwen; Final-year PhD candidate @THU"
 url                      : https://chujiezheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chujiezheng/chujiezheng.github.io"
@@ -82,7 +82,7 @@ social:
 author:
   name             : "Chujie Zheng"
   avatar           : "chujie.jpg"
-  bio              : "Final-year PhD candidate @Tsinghua; Visiting Scholar @UCLA"
+  bio              : "Researcher @Qwen; Final-year PhD candidate @THU"
   location         : "Beijing, China"
   employer         :
   pubmed           :
