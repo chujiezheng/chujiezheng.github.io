@@ -19,36 +19,39 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
+- **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
 - **[05/2025]** The **ExPO**, **ProcessBench**, and **Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
-- **[04/2025]** Release the **Qwen3** series foundation models [[blog]](https://qwenlm.github.io/blog/qwen3/) [[🤗 model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/) 
-- **[03/2025]** Release the **QwQ-32B** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo) 
-- **[01/2025]** Release **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning [[paper]](https://huggingface.co/papers/2501.07301) [[🤗 model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
-- **[12/2024]** Release **ProcessBench** for process supervision in mathematical reasoning [[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
+- **[04/2025]** Release the **Qwen3** series foundation models [[blog]](https://qwenlm.github.io/blog/qwen3/) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/) 
+- **[03/2025]** Release the **QwQ-32B** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo) 
+- **[02/2025]** Release the **SuperGPQA** benchmark for comprehensive LLM evaluation [[paper]](https://huggingface.co/papers/2502.14739) [[data]](https://huggingface.co/datasets/m-a-p/SuperGPQA)
+- **[01/2025]** Release the **Qwen2.5-Math-PRM** models for process supervision in mathematical reasoning [[paper]](https://huggingface.co/papers/2501.07301) [[model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
+- **[12/2024]** Release the **ProcessBench** benchmark for process supervision in mathematical reasoning [[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[data]](https://huggingface.co/datasets/Qwen/ProcessBench)
 - **[12/2024]** Release the **Yi-Lightning** technical report [[paper]](https://huggingface.co/papers/2412.01253)
-- **[11/2024]** Release the **QwQ-32B-Preview** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
-- **[10/2024]** Release **Yi-Lightning**, which ranks **<font color="red">#6 on Chatbot Arena</font>** (as of 10/14/2024)
+- **[11/2024]** Release the **QwQ-32B-Preview** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
+- **[10/2024]** Release the **Yi-Lightning** foundation model
 - **[05/2024]** The **DRO** paper is accpeted to **<font color="red">ICML 2024</font>**
-- **[04/2024]** Release the paper of model extrapolation **(ExPO)** for efficient LLM alignment [[paper]](https://arxiv.org/abs/2404.16792)
-- **[01/2024]** Release the paper of safety prompt optimization **(DRO)** for LLM safeguarding [[paper]](https://arxiv.org/abs/2401.18018)
+- **[04/2024]** Release the paper of model extrapolation **(ExPO)** for efficient LLM alignment [[paper]](https://huggingface.co/papers/2404.16792)
+- **[01/2024]** Release the paper of safety prompt optimization **(DRO)** for LLM safeguarding [[paper]](https://huggingface.co/papers/2401.18018)
 - **[01/2024]** The **PriDe** paper is accpeted to **<font color="red">ICLR 2024 as a Spotlight (5%)</font>**
 - **[11/2023]** Start my visiting research at UCLA, hosted by [Nanyun (Violet) Peng](https://vnpeng.net/)
-- **[09/2023]** Release the paper of LLM debiasing **(PriDe)** in multiple-choice QA [[paper]](https://arxiv.org/abs/2309.03882)
+- **[09/2023]** Release the paper of LLM debiasing **(PriDe)** in multiple-choice QA [[paper]](https://huggingface.co/papers/2309.03882)
 
 ## Selected Projects
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
-1. **Qwen3: Think Deeper, Act Faster**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwen3/) [[🤗 model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
-2. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
-3. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[🤗 model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[🤗 demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
-4. **Model Extrapolation Expedites Alignment**<br />**<u>Chujie Zheng</u>**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br />*ACL 2025*<br />[[paper]](https://arxiv.org/abs/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[🤗 model]](https://huggingface.co/collections/chujiezheng/model-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70) ***<font color=red>(140K+ downloads)</font>***
-5. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**<u>Chujie Zheng</u>**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />*ACL 2025*<br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[🤗 data]](https://huggingface.co/datasets/Qwen/ProcessBench)
-6. **The Lessons of Developing Process Reward Models in Mathematical Reasoning**<br />Zhenru Zhang, **<u>Chujie Zheng</u>**, Yangzhen Wu, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br />*Findings of ACL 2025*<br />[[paper]](https://huggingface.co/papers/2501.07301) [[🤗 model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
+1. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
+2. **Model Extrapolation Expedites Alignment**<br />**Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br /><u>ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[model]](https://huggingface.co/collections/chujiezheng/model-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
+3. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**Chujie Zheng**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br /><u>ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[data]](https://huggingface.co/datasets/Qwen/ProcessBench)
+4. **The Lessons of Developing Process Reward Models in Mathematical Reasoning**<br />Zhenru Zhang, **Chujie Zheng**, Yangzhen Wu, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br /><u>Findings of ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2501.07301) [[model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
+5. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
+6. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
 7. **Yi-Lightning Technical Report**<br />01.AI<br />[[paper]](https://huggingface.co/papers/2412.01253)
-8. **On Prompt-Driven Safeguarding for Large Language Models**<br />**<u>Chujie Zheng</u>**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br />*ICML 2024*<br />[[paper]](https://arxiv.org/abs/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard)
-9. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />**<u>Chujie Zheng</u>**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br />*ICLR 2024 **<font color=red>(Spotlight: 5%)</font>***<br />
+8. **On Prompt-Driven Safeguarding for Large Language Models**<br />**Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br /><u>ICML 2024</u><br />[[paper]](https://huggingface.co/papers/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard)
+9. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />**Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br /><u>ICLR 2024</u> **<font color=red>(Spotlight: 5%)</font>**<br />
     [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
-10. **Chat Templates for 🤗 HuggingFace Large Language Models**<br />**<u>Chujie Zheng</u>**<br />*GitHub Repository **<font color=red>(600+ stars)</font>*** <br />
+10. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br /><u>GitHub Repository</u> **<font color=red>(600+ stars)</font>**<br />
     [[repo]](https://github.com/chujiezheng/chat_templates)
 
 ## Education
@@ -64,7 +67,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
   - Built the **QwQ** series reasoning models
   - Built **ProcessBench** and **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning
 - Jul 2024 – Oct 2024. Research Intern. 01.AI
-  - Built **Yi-Lightning**, which ranks  **<font color=red>#6 on Chatbot Arena</font>** (as of 10/14/2024)
+  - Built the **Yi-Lightning** foundation model
 - Feb 2022 – Jun 2022. Research Intern. Baidu
 
 ## Services
