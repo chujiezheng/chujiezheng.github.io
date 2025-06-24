@@ -7,18 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team and a final-year Ph.D candidate at Tsinghua University, advised by Prof. Minlie Huang.
+I am a researcher in the Qwen Team and I have received my doctoral degree at Tsinghua University.
 
-I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on data and algorithms, while I'm also actively developing skills related to infrastructure.
+I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on NLP/ML algorithms and data engineering, while I'm also actively developing skills related to AI infrastructure.
 
-- My current work focuses on advancing the **reasoning** capabilities of Qwen models (e.g., Qwen3, QwQ) through **large-scale reinforcement learning (RL)**, enabling them to tackle increasingly complex tasks.
-- My research interests also broadly include model architecture design, interpretability and dynamics, as well as trustworthiness and alignment.
+- My current work focuses on advancing the **reasoning capabilities of Qwen models (e.g., Qwen3, QwQ)** and exploring **stable and efficient reinforcement learning (RL)  algorithms**
+- My research interests also broadly include model architecture design, interpretability and training dynamics, as well as trustworthiness and alignment.
 - Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[06/2025]** Release the paper of driving reasoning RL with high-entropy tokens **(80/20 Rule)** [[paper]](https://huggingface.co/papers/2506.01939)
 - **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
 - **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
 - **[05/2025]** The **ExPO**, **ProcessBench**, and **Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
@@ -56,9 +57,9 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Education
 
-- Aug 2020 – present. Ph.D candidate in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 – Jun 2024. Visiting Researcher, University of California, Los Angeles. Host: [Nanyun Peng](https://vnpeng.net/)
-- Aug 2016 – Jul 2020. B.Sc. in Foundational Mathematics and Physics, Tsinghua University
+- Aug 2020 – Jun 2025. Ph.D in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- Nov 2023 – Jun 2024. Visiting Researcher. University of California, Los Angeles. Host: [Nanyun Peng](https://vnpeng.net/)
+- Aug 2016 – Jul 2020. B.Sc. in Mathematics and Physics, Tsinghua University
 
 ## Work Experiences
 
@@ -77,6 +78,6 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Awards and Honors
 
-- **Comprehensive Merit Scholarship**, Tsinghua University, 2021 – 2024
+- **Outstanding Graduete**, DCST, Tsinghua University, 2025
 - **Outstanding Undergraduate**, Tsinghua University, 2020
 - **National Scholarship (Top 2/100)**, Ministry of Education of China, 2019
