@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team and I have received my doctoral degree at Tsinghua University.
+I am a researcher in the Qwen Team. I received my doctoral degree at Tsinghua University in Jun 2025.
 
-I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on NLP/ML algorithms and data engineering, while I'm also actively developing skills related to AI infrastructure.
+I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on NLP/ML algorithms and data engineering, and I'm also actively developing skills related to AI infrastructure.
 
-- My current work focuses on advancing the **reasoning capabilities of Qwen models (e.g., Qwen3, QwQ)** and exploring **stable and efficient reinforcement learning (RL)  algorithms**
-- My research interests also broadly include model architecture design, interpretability and training dynamics, as well as trustworthiness and alignment.
+- My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and exploring **stable and efficient approaches to scaling reinforcement learning (RL)**.
+- My research interests also broadly span model architecture design, interpretability and training dynamics, as well as trustworthiness and alignment.
 - Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
