@@ -11,8 +11,8 @@ I am a researcher in the Qwen Team. I received my doctoral degree at Tsinghua Un
 
 I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on NLP/ML algorithms and data engineering, and I'm also actively developing skills related to AI infrastructure.
 
-- My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and exploring **stable and efficient approaches to scaling reinforcement learning (RL)**.
-- My research interests also broadly span model architecture design, interpretability and training dynamics, as well as trustworthiness and alignment.
+- My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and improving the **stability and robustness of large-scale reinforcement learning (RL)**.
+- My research interests also broadly span model architecture, interpretability, safety, and alignment.
 - Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
