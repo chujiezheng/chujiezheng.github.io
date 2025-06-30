@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team. I received my doctoral degree at Tsinghua University in Jun 2025.
+I am a researcher in the Qwen Team, Alibaba Group. I received my doctoral degree in Computer Science and Technology at Tsinghua University.
 
-I am dedicated to **building scalable, generalist AI systems**. My expertise is mainly centered on NLP/ML algorithms and data engineering, and I'm also actively developing skills related to AI infrastructure.
+I am dedicated to **building scalable, generalist AI systems**. Specifically, I am interested in methodologies that can consistently and efficiently improve the intelligence and task-solving abilities of AI systems with increasing compute and data. My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) approaches**. 
 
-- My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) methodologies**.
-- My research interests also broadly span model architecture, interpretability, safety, and alignment.
-- Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
+My research interests also broadly span model architecture, interpretability, safety, and alignment. Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
 
@@ -34,26 +32,17 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 - **[05/2024]** The **DRO** paper is accpeted to **<font color="red">ICML 2024</font>**
 - **[04/2024]** Release the paper of model extrapolation **(ExPO)** for efficient LLM alignment [[paper]](https://huggingface.co/papers/2404.16792)
 - **[01/2024]** Release the paper of safety prompt optimization **(DRO)** for LLM safeguarding [[paper]](https://huggingface.co/papers/2401.18018)
-- **[01/2024]** The **PriDe** paper is accpeted to **<font color="red">ICLR 2024 as a Spotlight (5%)</font>**
+- **[01/2024]** The **PriDe** paper is accpeted to **<font color="red">ICLR 2024 as Spotlight (5%)</font>**
 - **[11/2023]** Start my visiting research at UCLA, hosted by [Nanyun (Violet) Peng](https://vnpeng.net/)
 - **[09/2023]** Release the paper of LLM debiasing **(PriDe)** in multiple-choice QA [[paper]](https://huggingface.co/papers/2309.03882)
 
-## Selected Projects
+## Recent Projects
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
 1. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
-2. **Model Extrapolation Expedites Alignment**<br />**Chujie Zheng**, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng<br /><u>ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2404.16792) [[repo]](https://github.com/chujiezheng/LLM-Extrapolation) [[model]](https://huggingface.co/collections/chujiezheng/model-extrapolation-expedites-alignment-662b69fbe7850e722e10ff70)
-3. **ProcessBench: Identifying Process Errors in Mathematical Reasoning**<br />**Chujie Zheng**, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br /><u>ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2412.06559) [[repo]](https://github.com/QwenLM/ProcessBench) [[data]](https://huggingface.co/datasets/Qwen/ProcessBench)
-4. **The Lessons of Developing Process Reward Models in Mathematical Reasoning**<br />Zhenru Zhang, **Chujie Zheng**, Yangzhen Wu, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin<br /><u>Findings of ACL 2025</u><br />[[paper]](https://huggingface.co/papers/2501.07301) [[model]](https://huggingface.co/Qwen/Qwen2.5-Math-PRM-72B)
 5. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
 6. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
-7. **Yi-Lightning Technical Report**<br />01.AI<br />[[paper]](https://huggingface.co/papers/2412.01253)
-8. **On Prompt-Driven Safeguarding for Large Language Models**<br />**Chujie Zheng**, Fan Yin, Hao Zhou, Fandong Meng, Jie Zhou, Kai-Wei Chang, Minlie Huang, Nanyun Peng<br /><u>ICML 2024</u><br />[[paper]](https://huggingface.co/papers/2401.18018) [[repo]](https://github.com/chujiezheng/LLM-Safeguard)
-9. **Large Language Models Are Not Robust Multiple Choice Selectors**<br />**Chujie Zheng**, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang<br /><u>ICLR 2024</u> **<font color=red>(Spotlight: 5%)</font>**<br />
-    [[paper]](https://openreview.net/forum?id=shr9PXz7T0) [[repo]](https://github.com/chujiezheng/LLM-MCQ-Bias)
-10. **Chat Templates for HuggingFace Large Language Models**<br />**Chujie Zheng**<br /><u>GitHub Repository</u> **<font color=red>(600+ stars)</font>**<br />
-    [[repo]](https://github.com/chujiezheng/chat_templates)
 
 ## Education
 
