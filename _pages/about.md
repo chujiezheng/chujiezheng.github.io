@@ -17,10 +17,13 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
+- **[07/2025]** Release the **Qwen3-Coder-480B-A35B-Instruct** agentic model
+- **[07/2025]** Release the **Qwen3-235B-A22B-Instruct-2507 & Qwen3-235B-A22B-Thinking-2507** updates
 - **[06/2025]** Release the paper of driving reasoning RL with high-entropy tokens **(80/20 Rule)** [[paper]](https://huggingface.co/papers/2506.01939)
 - **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
 - **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
-- **[05/2025]** The **ExPO**, **ProcessBench**, and **Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
+- **[05/2025]** The **ExPO, ProcessBench & Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
 - **[04/2025]** Release the **Qwen3** series foundation models [[blog]](https://qwenlm.github.io/blog/qwen3/) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/) 
 - **[03/2025]** Release the **QwQ-32B** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo) 
 - **[02/2025]** Release the **SuperGPQA** benchmark for comprehensive LLM evaluation [[paper]](https://huggingface.co/papers/2502.14739) [[data]](https://huggingface.co/datasets/m-a-p/SuperGPQA)
@@ -40,9 +43,10 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
-1. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
-5. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
-6. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
+1. **Group Sequence Policy Optimization**<br />**Chujie Zheng**, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2507.18071)
+2. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
+3. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
+4. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
 
 ## Education
 
