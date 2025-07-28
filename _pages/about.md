@@ -17,6 +17,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
 - **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
 - **[07/2025]** Release the **Qwen3-Coder-480B-A35B-Instruct** agentic model
 - **[07/2025]** Release the **Qwen3-235B-A22B-Instruct-2507 & Qwen3-235B-A22B-Thinking-2507** updates
@@ -71,6 +72,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Awards and Honors
 
+- **Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)**, WAIC, 2025
 - **Outstanding Graduete**, DCST, Tsinghua University, 2025
 - **Outstanding Undergraduate**, Tsinghua University, 2020
 - **National Scholarship (Top 2/100)**, Ministry of Education of China, 2019
