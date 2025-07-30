@@ -17,6 +17,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
 - **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
 - **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
 - **[07/2025]** Release the **Qwen3-Coder-480B-A35B-Instruct** agentic model
@@ -72,6 +73,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Awards and Honors
 
+- **ACL SAC Award**, 2025
 - **Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)**, WAIC, 2025
 - **Outstanding Graduete**, DCST, Tsinghua University, 2025
 - **Outstanding Undergraduate**, Tsinghua University, 2020
