@@ -20,7 +20,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 - **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
 - **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
 - **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
-- **[07/2025]** Release the **Qwen3** model updates (**Qwen3-235B-A22B-Thinking-2507, Qwen3-Coder-480B-A35B-Instruct**, etc.)
+- **[07/2025]** Release the **Qwen3** model updates (**Qwen3-235B-A22B-Instruct-2507, Qwen3-Coder-480B-A35B-Instruct, Qwen3-235B-A22B-Thinking-2507**, etc.)
 - **[06/2025]** Release the paper of driving reasoning RL with high-entropy tokens **(80/20 Rule)** [[paper]](https://huggingface.co/papers/2506.01939)
 - **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
 - **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
@@ -58,6 +58,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 - Oct 2024 – Present. Researcher. Qwen Team, Alibaba Group
+  - Proposed the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training
   - Built the **Qwen3** series foundation models
   - Built the **QwQ** series reasoning models
   - Built **ProcessBench** and **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning
