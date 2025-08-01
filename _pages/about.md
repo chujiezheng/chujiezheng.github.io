@@ -20,8 +20,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 - **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
 - **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
 - **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
-- **[07/2025]** Release the **Qwen3-Coder-480B-A35B-Instruct** agentic model
-- **[07/2025]** Release the **Qwen3-235B-A22B-Instruct-2507 & Qwen3-235B-A22B-Thinking-2507** updates
+- **[07/2025]** Release the **Qwen3** model updates (**Qwen3-235B-A22B-Thinking-2507, Qwen3-Coder-480B-A35B-Instruct**, etc.)
 - **[06/2025]** Release the paper of driving reasoning RL with high-entropy tokens **(80/20 Rule)** [[paper]](https://huggingface.co/papers/2506.01939)
 - **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
 - **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
