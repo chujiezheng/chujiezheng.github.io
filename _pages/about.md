@@ -9,7 +9,7 @@ redirect_from:
 
 I am a researcher in the Qwen Team, Alibaba Group. I received my doctoral degree in Computer Science and Technology at Tsinghua University.
 
-I am dedicated to **building scalable, generalist AI systems**. Specifically, I am interested in methodologies that can consistently and efficiently improve the intelligence and task-solving abilities of AI systems with increasing compute and data. My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) approaches**. 
+I am dedicated to **building scalable, generalist AI systems**. Specifically, I am interested in methodologies that can consistently and efficiently improve the intelligence and task-solving abilities of AI systems with increased compute and data. My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) approaches**. 
 
 My research interests also broadly span model architecture, interpretability, safety, and alignment. Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
 
