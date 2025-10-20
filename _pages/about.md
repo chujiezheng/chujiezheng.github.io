@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team, Alibaba Group. I received my doctoral degree in Computer Science and Technology at Tsinghua University.
+I am a researcher in the Qwen Team, Alibaba Group. I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
 
 I am dedicated to **building scalable, generalist AI systems**. Specifically, I am interested in methodologies that can consistently and efficiently improve the intelligence and task-solving abilities of AI systems with increased compute and data. My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) approaches**. 
 
@@ -17,6 +17,8 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[10/2025]** Selected for the **<font color="red">2025 CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划)</font>**
+- **[09/2025]** The **80/20 Rule** and **SuperGPQA** papers are accepted to **<font color="red">NeurIPS 2025</font>**
 - **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
 - **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
 - **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
@@ -64,7 +66,6 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
   - Built **ProcessBench** and **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning
 - Jul 2024 – Oct 2024. Research Intern. 01.AI
   - Built the **Yi-Lightning** foundation model
-- Feb 2022 – Jun 2022. Research Intern. Baidu
 
 ## Services
 
@@ -73,8 +74,9 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 
 ## Awards and Honors
 
+- **CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划, Top 10 in China)**, 2025
 - **ACL SAC Award**, 2025
-- **Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)**, WAIC, 2025
+- **Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)**, 2025
 - **Outstanding Graduete**, DCST, Tsinghua University, 2025
 - **Outstanding Undergraduate**, Tsinghua University, 2020
 - **National Scholarship (Top 2/100)**, Ministry of Education of China, 2019
