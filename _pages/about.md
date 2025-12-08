@@ -17,6 +17,7 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[12/2025]** Release the paper of LLM RL formulation & stable training recipes **(Stabilizing LLM RL)** [[paper]](https://huggingface.co/papers/2512.01374)
 - **[10/2025]** Selected for the **<font color="red">2025 CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划)</font>**
 - **[09/2025]** The **80/20 Rule** and **SuperGPQA** papers are accepted to **<font color="red">NeurIPS 2025</font>**
 - **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
@@ -46,10 +47,11 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
 
-1. **Group Sequence Policy Optimization**<br />**Chujie Zheng**, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2507.18071)
-2. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
-3. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
-4. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
+1. **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**<br />**Chujie Zheng**, Kai Dang, Bowen Yu, Mingze Li, Huiqiang Jiang, Junrong Lin, Yuqiong Liu, Hao Lin, Chencan Wu, Feng Hu, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2512.01374)
+2. **Group Sequence Policy Optimization**<br />**Chujie Zheng**, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2507.18071)
+3. **Qwen3 Technical Report**<br />Qwen Team<br />[[paper]](https://huggingface.co/papers/2505.09388) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/)
+4. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo)
+5. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview)
 
 ## Education
 
@@ -60,6 +62,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 - Oct 2024 – Present. Researcher. Qwen Team, Alibaba Group
+  - Developed the **formulation and training recipes** for stable RL training
   - Proposed the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training
   - Built the **Qwen3** series foundation models
   - Built the **QwQ** series reasoning models
