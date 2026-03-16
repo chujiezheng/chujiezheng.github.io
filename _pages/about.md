@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team. My work since joining the team is dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training
+I am a researcher in the Qwen Team. My work since joining the team has been dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training
 
 Prior to entering the industry, I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
 
