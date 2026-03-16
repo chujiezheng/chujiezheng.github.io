@@ -7,27 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team, Alibaba Group. I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
+I am a researcher in the Qwen Team. My work since joining the team is dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training
 
-I am dedicated to **building scalable, generalist AI systems**. Specifically, I am interested in methodologies that can consistently and efficiently improve the intelligence and task-solving abilities of AI systems with increased compute and data. My current work focuses on advancing the **reasoning capabilities of the Qwen models (e.g., Qwen3, QwQ)** and developing **large-scale reinforcement learning (RL) approaches**. 
-
-My research interests also broadly span model architecture, interpretability, safety, and alignment. Previously, I conducted extensive research on LLMs for social good, with a main focus on building emotional support systems.
+Prior to entering the industry, I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
 
 You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
-- **[12/2025]** Release the paper of LLM RL formulation & stable training recipes **(Stabilizing LLM RL)** [[paper]](https://huggingface.co/papers/2512.01374)
+- **[01/2026]** One paper accepted to **<font color="red">ICLR 2026</font>**
+- **[12/2025]** Release the paper of **large-scale stable RL training recipes** [[paper]](https://huggingface.co/papers/2512.01374)
 - **[10/2025]** Selected for the **<font color="red">2025 CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划)</font>**
-- **[09/2025]** The **80/20 Rule** and **SuperGPQA** papers are accepted to **<font color="red">NeurIPS 2025</font>**
+- **[09/2025]** Two papers accepted to **<font color="red">NeurIPS 2025</font>**
 - **[07/2025]** The **ProcessBench** paper wins the **<font color="red">ACL 2025 SAC Award</font>**
 - **[07/2025]** Selected as **<font color="red">Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)</font>**
-- **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training [[paper]](https://huggingface.co/papers/2507.18071)
-- **[07/2025]** Release the **Qwen3** series updates (**Qwen3-235B-A22B-Instruct-2507, Qwen3-Coder-480B-A35B-Instruct, Qwen3-235B-A22B-Thinking-2507**, etc.)
-- **[06/2025]** Release the paper of driving reasoning RL with high-entropy tokens **(80/20 Rule)** [[paper]](https://huggingface.co/papers/2506.01939)
-- **[05/2025]** Release the paper of modeling world preference **(WorldPM)** [[paper]](https://huggingface.co/papers/2505.10527)
+- **[07/2025]** Release the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale MoE RL training [[paper]](https://huggingface.co/papers/2507.18071)
+- **[07/2025]** Release the **Qwen3-2507** series updates
 - **[05/2025]** Release the **Qwen3** technical report [[paper]](https://huggingface.co/papers/2505.09388)
-- **[05/2025]** The **ExPO, ProcessBench & Qwen2.5-Math-PRM** papers are accepted to **<font color="red">ACL 2025</font>**
+- **[05/2025]** Three papers accepted to **<font color="red">ACL 2025</font>**
 - **[04/2025]** Release the **Qwen3** series foundation models [[blog]](https://qwenlm.github.io/blog/qwen3/) [[model]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) [[chat]](https://chat.qwen.ai/) 
 - **[03/2025]** Release the **QwQ-32B** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b/) [[model]](https://huggingface.co/Qwen/QwQ-32B) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-Demo) 
 - **[02/2025]** Release the **SuperGPQA** benchmark for comprehensive LLM evaluation [[paper]](https://huggingface.co/papers/2502.14739) [[data]](https://huggingface.co/datasets/m-a-p/SuperGPQA)
@@ -36,12 +33,8 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 - **[12/2024]** Release the **Yi-Lightning** technical report [[paper]](https://huggingface.co/papers/2412.01253)
 - **[11/2024]** Release the **QwQ-32B-Preview** reasoning model [[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview) [[demo]](https://huggingface.co/spaces/Qwen/QwQ-32B-preview) 
 - **[10/2024]** Release the **Yi-Lightning** foundation model
-- **[05/2024]** The **DRO** paper is accpeted to **<font color="red">ICML 2024</font>**
-- **[04/2024]** Release the paper of model extrapolation **(ExPO)** for efficient LLM alignment [[paper]](https://huggingface.co/papers/2404.16792)
-- **[01/2024]** Release the paper of safety prompt optimization **(DRO)** for LLM safeguarding [[paper]](https://huggingface.co/papers/2401.18018)
-- **[01/2024]** The **PriDe** paper is accpeted to **<font color="red">ICLR 2024 as Spotlight (5%)</font>**
-- **[11/2023]** Start my visiting research at UCLA, hosted by [Nanyun (Violet) Peng](https://vnpeng.net/)
-- **[09/2023]** Release the paper of LLM debiasing **(PriDe)** in multiple-choice QA [[paper]](https://huggingface.co/papers/2309.03882)
+- **[05/2024]** One paper accpeted to **<font color="red">ICML 2024</font>**
+- **[01/2024]** One paper accpeted to **<font color="red">ICLR 2024 (Spotlight, 5%)</font>**
 
 ## Recent Projects
 
@@ -62,13 +55,7 @@ You can find my full paper list on [Google Scholar](https://scholar.google.com/c
 ## Work Experiences
 
 - Oct 2024 – Present. Researcher. Qwen Team, Alibaba Group
-  - Developed the **formulation and training recipes** for stable RL training
-  - Proposed the **Group Sequence Policy Optimization (GSPO)** algorithm for large-scale RL training
-  - Built the **Qwen3** series foundation models
-  - Built the **QwQ** series reasoning models
-  - Built **ProcessBench** and **Qwen2.5-Math-PRM** for process supervision in mathematical reasoning
 - Jul 2024 – Oct 2024. Research Intern. 01.AI
-  - Built the **Yi-Lightning** foundation model
 
 ## Services
 
