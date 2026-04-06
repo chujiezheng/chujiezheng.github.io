@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the Qwen Team. My work since joining the team has been dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training.
+I am a researcher in the Qwen Team. My work since joining the team has been dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. In an earlier time, I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training.
 
 Prior to entering the industry, I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
 
@@ -15,6 +15,8 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## News
 
+- **[04/2026]** One paper accepted to **<font color="red">ACL 2026</font>**
+- **[04/2026]** Release the **Qwen3.6** series updates [[blog]](https://qwen.ai/blog?id=qwen3.6)
 - **[02/2026]** Release the **Qwen3.5** series foundation models [[blog]](https://qwen.ai/blog?id=qwen3.5) [[model]](https://huggingface.co/collections/Qwen/qwen35)
 - **[01/2026]** One paper accepted to **<font color="red">ICLR 2026</font>**
 - **[12/2025]** Release the paper of **large-scale stable RL training recipes** [[paper]](https://huggingface.co/papers/2512.01374)
