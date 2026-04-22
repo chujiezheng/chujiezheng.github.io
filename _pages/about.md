@@ -1,17 +1,15 @@
 ---
 permalink: /
-title: "Chujie Zheng 郑楚杰"
+title: "Chujie Zheng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher in the Qwen Team. My work since joining the team has been dedicated to building AI systems that can tackle **complex, long-horizon real-world problems**. Currently, I am focusing on data curation and RL scaling to improve the **agentic coding** capability of Qwen models. In an earlier time, I also led research of **large-scale stable RL training recipes** for Qwen models. Notably, I proposed the **Routing Replay** and **Group Sequence Policy Optimization (GSPO)** algorithms for large-scale MoE RL training.
+I am a researcher at the Qwen Team. I am studying and scaling reinforcement learning for the next-generation Qwen models.
 
-Prior to entering the industry, I received my doctoral degree in Computer Science and Technology at Tsinghua University in 2025, and my bachelor degree in Mathematics and Physics at Tsinghua University in 2020.
-
-You can find my [CV](./cv_chujie_en.pdf) here.
+Here is my [CV](./cv_chujie_en.pdf).
 
 ## News
 
@@ -41,36 +39,10 @@ You can find my [CV](./cv_chujie_en.pdf) here.
 
 ## Recent Projects
 
-You can find my full paper list on [Google Scholar](https://scholar.google.com/citations?user=55zBNgUAAAAJ).
-
-1. **Qwen3.5: Towards Native Multimodal Agents**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?id=qwen3.5) [[model]](https://huggingface.co/collections/Qwen/qwen35)
-2. **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**<br />**Chujie Zheng**, Kai Dang, Bowen Yu, Mingze Li, Huiqiang Jiang, Junrong Lin, Yuqiong Liu, Hao Lin, Chencan Wu, Feng Hu, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2512.01374)
-3. **Group Sequence Policy Optimization**<br />**Chujie Zheng**, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2507.18071)
-4. **Qwen3: Think Deeper, Act Faster**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?id=qwen3) [[model]](https://huggingface.co/collections/Qwen/qwen3)
-5. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?qwq-32b) [[model]](https://huggingface.co/Qwen/QwQ-32B)
-6. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview)
-
-## Education
-
-- Aug 2020 – Jun 2025. Ph.D in Computer Science and Technology, Tsinghua University. Advisor: [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Nov 2023 – Jun 2024. Visiting Researcher. University of California, Los Angeles. Host: [Nanyun Peng](https://vnpeng.net/)
-- Aug 2016 – Jul 2020. B.Sc. in Mathematics and Physics, Tsinghua University
-
-## Work Experiences
-
-- Oct 2024 – Present. Researcher. Qwen Team, Alibaba Group
-- Jul 2024 – Oct 2024. Research Intern. 01.AI
-
-## Services
-
-- **Area Chair:** ACL (24/25), EMNLP (24/25), NAACL (25), ACL Rolling Review (24/25)
-- **Reviewer:** ICLR (25), NeurIPS (24/25), ICML (24), COLM (24/25), ACL (22/23), EMNLP (21/22), NAACL (24), EACL (23), ACL Rolling Review (21/22/23), CogSci (24), AAAI (22/23)
-
-## Awards and Honors
-
-- **CIPS Doctoral Dissertation Incentive Program (中国中文信息学会博士学位论文激励计划, Top 10 in China)**, 2025
-- **ACL SAC Award**, 2025
-- **Spotlight Recipient of the 2025 WAIC Yunfan Award (云帆奖·明日之星)**, 2025
-- **Outstanding Graduete**, DCST, Tsinghua University, 2025
-- **Outstanding Undergraduate**, Tsinghua University, 2020
-- **National Scholarship (Top 2/100)**, Ministry of Education of China, 2019
+1. **Qwen3.6-Plus: Towards Real World Agents**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?id=qwen3.6)
+2. **Qwen3.5: Towards Native Multimodal Agents**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?id=qwen3.5) [[model]](https://huggingface.co/collections/Qwen/qwen35)
+3. **Stabilizing Reinforcement Learning with LLMs: Formulation and Practices**<br />**Chujie Zheng**, Kai Dang, Bowen Yu, Mingze Li, Huiqiang Jiang, Junrong Lin, Yuqiong Liu, Hao Lin, Chencan Wu, Feng Hu, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2512.01374)
+4. **Group Sequence Policy Optimization**<br />**Chujie Zheng**, Shixuan Liu, Mingze Li, Xiong-Hui Chen, Bowen Yu, Chang Gao, Kai Dang, Yuqiong Liu, Rui Men, An Yang, Jingren Zhou, Junyang Lin<br />[[paper]](https://huggingface.co/papers/2507.18071)
+5. **Qwen3: Think Deeper, Act Faster**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?id=qwen3) [[model]](https://huggingface.co/collections/Qwen/qwen3)
+6. **QwQ-32B: Embracing the Power of Reinforcement Learning**<br />Qwen Team<br />[[blog]](https://qwen.ai/blog?qwq-32b) [[model]](https://huggingface.co/Qwen/QwQ-32B)
+7. **QwQ: Reflect Deeply on the Boundaries of the Unknown**<br />Qwen Team<br />[[blog]](https://qwenlm.github.io/blog/qwq-32b-preview/) [[model]](https://huggingface.co/Qwen/QwQ-32B-Preview)
